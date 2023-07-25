@@ -1,37 +1,64 @@
+# Project information
 site_name: NGUYEN Manh Hung
 site_url: https://nmh4598.github.io/docs
+site_author: NGUYEN Manh Hung
+site_description: >-
+  Write your documentation in Markdown and create a professional static site in
+  minutes – searchable, customizable, in 60+ languages, for all devices
+
+
+# Repository
+repo_name: nmh4598
+repo_url: https://github.com/nmh4598
+
+# Copyright
+copyright: |
+  &copy; 2023 <a href="https://github.com/nmh4598"  target="_blank" rel="noopener">NGUYEN Manh Hung</a>
+
+# Configuration
 theme:
   name: material
   features:
     - navigation.tabs
     - navigation.sections
-    # - toc.integrate
     - navigation.top
+    - navigation.footer
+    - header.autohide
+    # - toc.integrate
     - search.suggest
     - search.highlight
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.action.view
+    - content.action.edit
   language: en
   palette:
     - scheme: default
+      primary: indigo
+      accent: indigo
       toggle:
-        icon: material/toggle-switch-off-outline 
+        icon: material/brightness-7
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
-    - scheme: slate 
+    - scheme: slate
+      primary: indigo
+      accent: indigo
       toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: teal
-      accent: lime
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: material/github
 
+# Plugins
 plugins:
   - social
-  - search
-# pip install pillow cairosvg
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 
+# Customization
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -47,6 +74,7 @@ extra:
     list_length: 25
     extended_preview: true
 
+# Extensions
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -58,11 +86,22 @@ markdown_extensions:
   - footnotes
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - pymdownx.mark
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-copyright: |
-  &copy; 2023 <a href="https://github.com/nmh4598"  target="_blank" rel="noopener">NGUYEN Manh Hung</a>
+# Page tree
+nav:
+  - Home: index.md
+  - Blog: 
+    - Network analysis: blog/ana.md
+    - Test: blog/test.md
+    - Machine learning: blog/ml.md
+  - About: about.md
