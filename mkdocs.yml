@@ -29,13 +29,23 @@ theme:
 
 plugins:
   - social
+  - search
+# pip install pillow cairosvg
 
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
+    - icon: fontawesome/brands/github
       link: https://github.com/nmh4598
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/nmh4598/
+    - icon: material/email
+      link: mailto:nguyenmanhhung04051998@gmail.com
+
+  blog:    
+    author_image: https://avatars.githubusercontent.com/u/93479011
+    words_read_per_minute: 300
+    list_length: 25
+    extended_preview: true
 
 markdown_extensions:
   - pymdownx.highlight:
