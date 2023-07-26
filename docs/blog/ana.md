@@ -42,16 +42,16 @@ To `install` the required packages, follow these steps:
     ```
 ??? " Following this step to install via  ``Docker``:fontawesome-brands-docker: "
 
-        - `Build` the Docker image by running the following command:
+    - `Build` the Docker image by running the following command:
         ```bash
         docker build -t my-streamlit-app .
         ```
-        - `Run` the Docker container by running the following command:
+    - `Run` the Docker container by running the following command:
+
         ```bash
         docker run -p 8501:8501 my-streamlit-app
         ```
-
-        This will start the Docker container and map port 8501 of the container to port 8501        of your local machine.
+    This will start the Docker container and map port 8501 of the container to port 8501 of your local machine.
 
 -  Finally, `open` a web browser :material-web: and go to [http://localhost:8501](http://localhost:8501/) or you can check my app [Streamlit](https://streamlit.io/) :simple-streamlit: here: [Link](https://nmh4598ana.streamlit.app/)
 
@@ -74,7 +74,7 @@ With the data from the table below, we can see that our social network has `62 n
 
 **Conclusion**: Les 19 pirates de l'air n'ont pas agi seuls. Ils avaient 43 autres complices qui ne sont pas montés à bord de l'avion. These co-conspirators are money generators and also provide the skills and knowledge needed. Networks expose the hijackers and their network neighborhoods - their direct and indirect associates. There are a total of 152 links between 62 members. It is surprising that there are 10 co-conspirators who have less than 20 direct links with the hijackers (excluding the "Hamburg Cell"). The other co-conspirators have direct and indirect links with the "Hamburg Cell". This indicates that my network seems to be divided into two halves separated by the "Hamburg Cell". The distance between hijackers on the same team is also very low. Many pairs of team members were beyond each other's observability horizon - many on the same flight were more than two steps away from each other. This is like a strategy to keep team members apart from each other and other teams, minimizing damage to the network if a cell member is captured or otherwise compromised.
 
-### Centrality Analysis
+### Centrality 
 === "Degree centrality" 
     [Degree centrality](https://www.geeksforgeeks.org/degree-centrality-centrality-measure/) is the simplest of the four algorithms we will study. It is based on the degree, which we can find in the previous section. In social networks, degree centrality is a measure of popularity and  can be a good way to guess who is in charge. Degree centrality is a fairly rudimentary example, but the following sections present more complex solutions commonly used in network science. The first three <span    style="color:#ff4d4d">Mohamed Atta </span>, <span style="color:#990000">Marwan al-Shehhi </span>, and <span style="color:#33cc33">Hani Hanjour </span> are pilots, while the 4th pilot <span   style="color:#0066cc">Ziad Jarrah </span> is ranked 7th because he has fewer neighbors compared to the other pilots. <span style="color:#ff4d4d">Mohamed Atta </span>'s degree centrality is 0.36, which is much  higher than the individuals below because he has the most links.
 
