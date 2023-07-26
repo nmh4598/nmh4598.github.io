@@ -1,6 +1,6 @@
 ## Terrorist and random network analysis
 
-This project examines terrorist social networks using data available from data information sources in [Valdis Krebs' article](https://firstmonday.org/ojs/index.php/fm/article/view/941/863). Specifically, we examine the network surrounding the tragic events of [September 11, 2001](https://fr.wikipedia.org/wiki/Attentats_du_11_septembre_2001). The September 11, 2001 attacks were four Islamist suicide attacks carried out on the same day in the United States. With the dataset, we are able to map a part of the network centered around the 19 deceased hijackers. This network gives us an insight into the terrorist organization.
+This project examines terrorist social networks using data available from data information sources in [Valdis Krebs' article](https://firstmonday.org/ojs/index.php/fm/article/view/941/863). Specifically, we examine the network surrounding the tragic events of [September 11, 2001](https://fr.wikipedia.org/wiki/Attentats_du_11_septembre_2001). The September 11, 2001 attacks were four Islamist suicide attacks carried out on the same day in the :flag_us:United States. With the dataset, we are able to map a part of the network centered around the 19 deceased hijackers. This network gives us an insight into the terrorist organization.
 
 ### Installation
 
@@ -56,13 +56,13 @@ To `install` the required packages, follow these steps:
 -  Finally, `open` a web browser :material-web: and go to [http://localhost:8501](http://localhost:8501/) or you can check my app [Streamlit](https://streamlit.io/) :simple-streamlit:{ .red } here: [Link](https://nmh4598ana.streamlit.app/)
 
 ### Description
-The September 11, 2001 attacks were four Islamist suicide attacks carried out on the same day in the United States, causing the deaths of 2,977 people. They took place in Manhattan, New York, Arlington in Virginia, and Shanksville in Pennsylvania. Nineteen terrorists hijacked four commercial airplanes. Two planes, <span style="color:#ff4d4d">Vol AA 11</span> and <span style="color:#990000">Vol UA 175</span>, controlled respectively by <span style="color:#ff4d4d">Mohamed Atta</span> and <span style="color:#990000">Marwan al-Shehhi</span>, were flown into the Twin Towers of the World Trade Center (WTC) in Manhattan (New York), while a third plane was flown into the Pentagon, the headquarters of the Department of Defense, in Washington, D.C., killing all the people on board and many others working in these buildings. The third plane, <span style="color:#33cc33">Vol AA 77</span>, controlled by <span style="color:#33cc33">Hani Hanjour</span>, was also flown into the Pentagon. The fourth plane, <span style="color:#0066cc">Vol UA 93</span>, controlled by <span style="color:#0066cc">Ziad Jarrah</span>, crashed in a field in Shanksville, Pennsylvania.
+The September 11, 2001 attacks were four Islamist suicide attacks carried out on the same day in the :flag_us:United States, causing the deaths of 2,977 people. They took place in Manhattan, New York, Arlington in Virginia, and Shanksville in Pennsylvania. Nineteen terrorists hijacked four commercial airplanes. Two planes, :material-airplane:{ .airplan1 }<span style="color:#ff4d4d">AA 11</span> and :material-airplane:{ .airplan2 } <span style="color:#990000">UA 175</span>, controlled respectively by <span style="color:#ff4d4d">Mohamed Atta</span> and <span style="color:#990000">Marwan al-Shehhi</span>, were flown into the Twin Towers of the World Trade Center (WTC) in Manhattan (New York), while a third plane was flown into the Pentagon, the headquarters of the Department of Defense, in Washington, D.C., killing all the people on board and many others working in these buildings. The third plane, :material-airplane:{ .airplan3 }<span style="color:#33cc33"> AA 77</span>, controlled by <span style="color:#33cc33">Hani Hanjour</span>, was also flown into the Pentagon. The fourth plane, :material-airplane:{ .airplan4 }<span style="color:#0066cc"> UA 93</span>, controlled by <span style="color:#0066cc">Ziad Jarrah</span>, crashed in a field in Shanksville, Pennsylvania.
 
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/nmh4598/ana_soc_net/master/data/img/airplane.jpg" alt="Airplane image">
 </div>
 
-We will discover the formation of terrorist social networks. The "Hamburg cell" was a group of radical Islamists based in Hamburg, Germany on November 1, 1998, which included students from different Arab countries who eventually became key agents in the September 11 attacks. They are the important members: <span style="color:#990000">Marwan al-Shehhi </span>, <span style="color:#0066cc">Ziad Jarrah </span > and <span style="color:#ff4d4d">Mohamed Atta</span>, who led the four hijacking teams, . They arrived in the United States in mid-2000 to conduct flight training. Other members included <span style="color:orange">Said Bahaji, Zakariya Essabar, Mounir el-Motassadeq and Abdelghani Mzoudi</span>. And <span style="color:orange">Ramzi bin al-Shibh</span>, who conspired with the other three members but was unable to obtain a visa to enter the United States. It was later replaced with <span style="color:#33cc33">Hani Hanjour</span>. But the first hijackers to arrive in the United States were <span style="color:#33cc33">Khalid al-Mihdhar</span> and <span style="color:#33cc33"> Nawaf al-Hazmi </span> in January 2000.
+We will discover the formation of terrorist social networks. The "Hamburg cell" was a group of radical Islamists based in Hamburg, :flag_de: Germany on November 1, 1998, which included students from different Arab countries who eventually became key agents in the September 11 attacks. They are the important members: <span style="color:#990000">Marwan al-Shehhi </span>, <span style="color:#0066cc">Ziad Jarrah </span > and <span style="color:#ff4d4d">Mohamed Atta</span>, who led the four hijacking teams, . They arrived in the :flag_us:United States in mid-2000 to conduct flight training. Other members included <span style="color:orange">Said Bahaji, Zakariya Essabar, Mounir el-Motassadeq and Abdelghani Mzoudi</span>. And <span style="color:orange">Ramzi bin al-Shibh</span>, who conspired with the other three members but was unable to obtain a :passport_control: visa to enter the :flag_us: United States. It was later replaced with <span style="color:#33cc33">Hani Hanjour</span>. But the first hijackers to arrive in the :flag_us:United States were <span style="color:#33cc33">Khalid al-Mihdhar</span> and <span style="color:#33cc33"> Nawaf al-Hazmi </span> in January 2000.
 
 ### Characteristics
 
@@ -78,16 +78,16 @@ With the data from the table below, we can see that our social network has `62 n
 === "Degree centrality" 
     [Degree centrality](https://www.geeksforgeeks.org/degree-centrality-centrality-measure/) is the simplest of the four algorithms we will study. It is based on the degree, which we can find in the previous section. In social networks, degree centrality is a measure of popularity and  can be a good way to guess who is in charge. Degree centrality is a fairly rudimentary example, but the following sections present more complex solutions commonly used in network science. The first three <span    style="color:#ff4d4d">Mohamed Atta </span>, <span style="color:#990000">Marwan al-Shehhi </span>, and <span style="color:#33cc33">Hani Hanjour </span> are pilots, while the 4th pilot <span   style="color:#0066cc">Ziad Jarrah </span> is ranked 7th because he has fewer neighbors compared to the other pilots. <span style="color:#ff4d4d">Mohamed Atta </span>'s degree centrality is 0.36, which is much  higher than the individuals below because he has the most links.
 
-    | Index | Degree centrality | Person |
+    | Index | Degree centrality | Person|
     |-------|-------------------|-----------------------|
     | 11    | 0.360656          | <span style="color:#ff4d4d">Mohamed Atta</span>     |
     | 31    | 0.295082          | <span style="color:#990000">Marwan al-Shehhi </span>|
     | 43    | 0.213115          | <span style="color:#33cc33">Hani Hanjour</span>     |
     | 44    | 0.180328          | <span style="color:#33cc33"> Nawaf al-Hazmi </span> |
-    | 1     | 0.180328          | Essid Sami Ben Khemais |
+    | 1     | 0.180328          | <span style="color:orange">Essid Sami Ben Khemais</span> |
     | 24    | 0.163934          | <span style="color:orange">Ramzi bin al-Shibh</span>|
     | 30    | 0.147541          | <span style="color:#0066cc">Ziad Jarrah</span>      |
-    | 40    | 0.147541          | Abdul Aziz Al Omari    |
+    | 40    | 0.147541          | <span style="color:orange">Abdul Aziz Al Omari</span>    |
 
 === "Closeness centrality"     
     The goal of [closeness centrality](https://www.geeksforgeeks.org/closeness-centrality-centrality-measure/) is to study whether the node is close to other node and can interact with them quickly. The idea is to look at the distance between the nodes. The closeness centrality increases if its distance to other nodes is low. The first three <span style="color:#ff4d4d">Mohamed Atta </span>, <span style="color:#990000">Marwan al-Shehhi </span>, and <span style="color:#33cc33">Hani Hanjour </span> are pilots, while the 4th pilot <span style="color:#0066cc">Ziad Jarrah </span> does not appear because the distance to other nodes is high. <span style="color:#ff4d4d">Mohamed Atta </span>'s distance to other nodes is lower because his closeness centrality is equal to 0.58, which is the highest.
@@ -100,22 +100,22 @@ With the data from the table below, we can see that our social network has `62 n
     | 44    | 0.438849             | <span style="color:#33cc33"> Nawaf al-Hazmi </span> |
     | 15    | 0.432624             | <span style="color:#33cc33">Zacarias Moussaoui</span>|
     | 24    | 0.432624             | <span style="color:orange">Ramzi bin al-Shibh</span>|
-    | 1     | 0.429577             | Essid Sami Ben Khemais |
-    | 40    | 0.420690             | Abdul Aziz Al Omari    |
+    | 1     | 0.429577             | <span style="color:orange">Essid Sami Ben Khemais</span> |
+    | 40    | 0.420690             | <span style="color:orange">Abdul Aziz Al Omari</span>   |
 
 === "Betweenness centrality" 
     [Betweenness centrality](https://www.geeksforgeeks.org/betweenness-centrality-centrality-measure/) is based on the assumption that the higher the number of shortest paths passing through a node, the more it acts as a broker (or a bridge). To calculate betweenness centrality, the shortest paths between each pair of nodes are found. The betweenness centrality value for a node or an edge is simply the number of these paths that pass through it. The goal of betweenness centrality is to measure how important a node is in connecting two other nodes in the graph or how a node serves as an intermediary. It also measures the usefulness of the node in communication and information transfer within the graph. The statistics of <span style="color:#ff4d4d">Mohamed Atta </span> are much higher than the others because he plays an important intermediary role in the network. Meanwhile, <span style="color:orange">Essid Sami Ben Khemais </span> and <span style="color:orange">Zacarias Moussaoui</span> are the ones who link <span style="color:#ff4d4d">Mohamed Atta </span> to other co-conspirators. So, they have just a slightly higher measure than the other pilots. Similar to the previous measure, the 4th pilot <span style="color:#0066cc">Ziad Jarrah </span> does not appear on the list.
 
-    | Index | Betweenness centrality| Person |
-    |-------|-----------------------|------------------------------|
-    | 11    | 1074.215573           | <span style="color:#ff4d4d">Mohamed Atta</span>     |
-    | 1     | 459.973443            | Essid Sami Ben Khemais |
-    | 15    | 415.416667            | <span style="color:#33cc33">Zacarias Moussaoui</span>|
-    | 44    | 281.939683            | <span style="color:#33cc33"> Nawaf al-Hazmi </span> |
-    | 43    | 230.985462            | <span style="color:#33cc33">Hani Hanjour</span>     |
-    | 17    | 221.583333            | Djamal Beghal          |
-    | 31    | 162.933836            | <span style="color:#990000">Marwan al-Shehhi </span>|
-    | 39    | 92.178125             | Satam Suqami           |
+    | Index | Betweenness centrality| Person                                                   |
+    |-------|-----------------------|----------------------------------------------------------|
+    | 11    | 1074.215573           | <span style="color:#ff4d4d">Mohamed Atta</span>          |
+    | 1     | 459.973443            | <span style="color:orange">Essid Sami Ben Khemais</span> |
+    | 15    | 415.416667            | <span style="color:#33cc33">Zacarias Moussaoui</span>    |
+    | 44    | 281.939683            | <span style="color:#33cc33"> Nawaf al-Hazmi </span>      |
+    | 43    | 230.985462            | <span style="color:#33cc33">Hani Hanjour</span>          |
+    | 17    | 221.583333            | <span style="color:orange">Djamal Beghal</span>          |
+    | 31    | 162.933836            | <span style="color:#990000">Marwan al-Shehhi </span>     |
+    | 39    | 92.178125             | <span style="color:orange">Satam Suqami</span>           |
 
 === "Eigenvector centrality" 
     [Eigenvector centrality](https://www.geeksforgeeks.org/eigenvector-centrality-centrality-measure/) is based on the analysis of the eigenvectors of the adjacency matrix of a graph. This measure is often used to identify community leaders in social networks. The interesting thing is that the 4th person <span style="color:#0066cc">Ziad Jarrah </span> is also the 4th pilot  because he is connected to the other 3 important pilots. A higher eigenvector score for Mohamed Atta means that he is connected to many nodes that themselves have high scores. We can also see that the other nodes are all very close to each other, they are not separated like in the previous three algorithms.
