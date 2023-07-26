@@ -34,18 +34,26 @@ theme:
     - content.action.edit
   language: en
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    - scheme: slate
-      primary: indigo
-      accent: indigo
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode
+        name: Switch to system preference
+  font:
   font:
     text: Roboto
     code: Roboto Mono
@@ -67,13 +75,10 @@ extra:
       link: https://www.linkedin.com/in/nmh4598/
     - icon: material/email
       link: mailto:nguyenmanhhung04051998@gmail.com
-
-  blog:    
-    author_image: https://avatars.githubusercontent.com/u/93479011
-    words_read_per_minute: 300
-    list_length: 25
-    extended_preview: true
-
+      
+extra_css:
+  - stylesheets/extra.css
+  
 # Extensions
 markdown_extensions:
   - pymdownx.highlight:
