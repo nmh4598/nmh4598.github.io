@@ -25,12 +25,12 @@ To `install` the required packages, follow these steps:
     ```
 - `Activate` the virtual environment:
 
-    === "Windows" :simple-windows:"
+    === "Windows" :simple-windows:{ .blue }"
         ```bash
         source venv/Scripts/activate
         ```
         
-    === "Macbook :simple-apple: or Linux :simple-linux:"
+    === "Macbook :simple-apple:{ .gray} or Linux :simple-linux:{ .orange }"
         ```bash
         source venv/bin/activate
         ```
@@ -40,7 +40,7 @@ To `install` the required packages, follow these steps:
         pip install -r requirements.txt
         streamlit run src/app.py
     ```
-??? " Following this step to install via  ``Docker``:fontawesome-brands-docker: "
+??? " Following this step to install via  ``Docker``:fontawesome-brands-docker:{ .blue } "
 
     - `Build` the Docker image by running the following command:
         ```bash
@@ -53,7 +53,7 @@ To `install` the required packages, follow these steps:
         ```
     This will start the Docker container and map port 8501 of the container to port 8501 of your local machine.
 
--  Finally, `open` a web browser :material-web: and go to [http://localhost:8501](http://localhost:8501/) or you can check my app [Streamlit](https://streamlit.io/) :simple-streamlit: here: [Link](https://nmh4598ana.streamlit.app/)
+-  Finally, `open` a web browser :material-web: and go to [http://localhost:8501](http://localhost:8501/) or you can check my app [Streamlit](https://streamlit.io/) :simple-streamlit:{ .red } here: [Link](https://nmh4598ana.streamlit.app/)
 
 ### Description
 The September 11, 2001 attacks were four Islamist suicide attacks carried out on the same day in the United States, causing the deaths of 2,977 people. They took place in Manhattan, New York, Arlington in Virginia, and Shanksville in Pennsylvania. Nineteen terrorists hijacked four commercial airplanes. Two planes, <span style="color:#ff4d4d">Vol AA 11</span> and <span style="color:#990000">Vol UA 175</span>, controlled respectively by <span style="color:#ff4d4d">Mohamed Atta</span> and <span style="color:#990000">Marwan al-Shehhi</span>, were flown into the Twin Towers of the World Trade Center (WTC) in Manhattan (New York), while a third plane was flown into the Pentagon, the headquarters of the Department of Defense, in Washington, D.C., killing all the people on board and many others working in these buildings. The third plane, <span style="color:#33cc33">Vol AA 77</span>, controlled by <span style="color:#33cc33">Hani Hanjour</span>, was also flown into the Pentagon. The fourth plane, <span style="color:#0066cc">Vol UA 93</span>, controlled by <span style="color:#0066cc">Ziad Jarrah</span>, crashed in a field in Shanksville, Pennsylvania.

@@ -130,7 +130,7 @@ def bubble_sort(items):
 
 :smile: 
 
-:fontawesome-regular-face-laugh-wink:
+:fontawesome-regular-face-laugh-wink:{ .heart }
 
 :fontawesome-brands-twitter:{ .twitter }
 
@@ -168,3 +168,5 @@ def bubble_sort(items):
             kwds:
               case: lower
     ```
+
+:octicons-heart-fill-24:{ .heart }
