@@ -2,59 +2,6 @@
 
 This project examines terrorist social networks using data available from data information sources in [Valdis Krebs' article](https://firstmonday.org/ojs/index.php/fm/article/view/941/863). Specifically, we examine the network surrounding the tragic events of [September 11, 2001](https://fr.wikipedia.org/wiki/Attentats_du_11_septembre_2001). The September 11, 2001 attacks were four Islamist suicide attacks carried out on the same day in the :flag_us:United States. With the dataset, we are able to map a part of the network centered around the 19 deceased hijackers. This network gives us an insight into the terrorist organization.
 
-### Installation
-
-To `install` the required packages, follow these steps:
-
-- ``Clone`` :octicons-repo-clone-16: this repository to your local machine
-
-    === "HTTPS"
-        ```bash
-        git clone https://github.com/nmh4598/ana_soc_net.git
-        ```
-    === "SSL"
-        ```bash
-        git clone git@github.com:nmh4598/ana_soc_net.git
-        ```
-
-- "Open a `terminal` :octicons-terminal-16: and navigate to the root directory of the repository
-
-- `Create` a virtual environment by running the following command
-    ```bash
-    python -m venv venv
-    ```
-- `Activate` the virtual environment:
-
-    === "Windows" :simple-windows:{ .blue }"
-        ```bash
-        source venv/Scripts/activate
-        ```
-        
-    === "Macbook :simple-apple:{ .gray} or Linux :simple-linux:{ .orange }"
-        ```bash
-        source venv/bin/activate
-        ```
-
-- `Install` the required packages by running:
-    ```bash
-        pip install -r requirements.txt
-        streamlit run src/app.py
-    ```
-??? " Following this step to install via  ``Docker``:fontawesome-brands-docker:{ .blue } "
-
-    - `Build` the Docker image by running the following command:
-        ```bash
-        docker build -t my-streamlit-app .
-        ```
-    - `Run` the Docker container by running the following command:
-
-        ```bash
-        docker run -p 8501:8501 my-streamlit-app
-        ```
-    This will start the Docker container and map port 8501 of the container to port 8501 of your local machine.
-
--  Finally, `open` a web browser :material-web: and go to [http://localhost:8501](http://localhost:8501/) or you can check my app [Streamlit](https://streamlit.io/) :simple-streamlit:{ .red } here: [Link](https://nmh4598ana.streamlit.app/)
-
 ### Description
 The September 11, 2001 attacks were four Islamist suicide attacks carried out on the same day in the :flag_us:United States, causing the deaths of 2,977 people. They took place in Manhattan, New York, Arlington in Virginia, and Shanksville in Pennsylvania. Nineteen terrorists hijacked four commercial airplanes. Two planes, :material-airplane:{ .airplan1 }<span style="color:#ff4d4d">AA 11</span> and :material-airplane:{ .airplan2 } <span style="color:#990000">UA 175</span>, controlled respectively by <span style="color:#ff4d4d">Mohamed Atta</span> and <span style="color:#990000">Marwan al-Shehhi</span>, were flown into the Twin Towers of the World Trade Center (WTC) in Manhattan (New York), while a third plane was flown into the Pentagon, the headquarters of the Department of Defense, in Washington, D.C., killing all the people on board and many others working in these buildings. The third plane, :material-airplane:{ .airplan3 }<span style="color:#33cc33"> AA 77</span>, controlled by <span style="color:#33cc33">Hani Hanjour</span>, was also flown into the Pentagon. The fourth plane, :material-airplane:{ .airplan4 }<span style="color:#0066cc"> UA 93</span>, controlled by <span style="color:#0066cc">Ziad Jarrah</span>, crashed in a field in Shanksville, Pennsylvania.
 
