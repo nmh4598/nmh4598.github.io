@@ -50,3 +50,35 @@ To `install` the required packages, follow these steps:
     This will start the Docker container and map port 8501 of the container to port 8501 of your local machine.
 
 -  Finally, `open` a web browser :material-web: and go to [http://localhost:8501](http://localhost:8501/) or you can check my app [Streamlit](https://streamlit.io/) :simple-streamlit:{ .red } here: [Link](https://nmh4598ana.streamlit.app/)
+
+# Class diagrams
+
+``` mermaid
+classDiagram
+  PyvisGraph <|-- CenCom
+  CenCom <|-- Carac
+  Carac <|-- Graph
+  PyvisGraph: -_add_nodes_and_edges()
+  PyvisGraph: +gnet_pyvis()
+  class Graph{
+        + String edges_path
+        + String nodes_path
+        + DataFrame edges
+        + DataFrame nodes
+        + Graph graph 
+        + bool rada
+        + load_data()
+        + create_graph()
+        + random_graph()
+        + choose_data()
+    }
+  class Carac{
+        + info()
+    }
+  class CenCom{
+        - _create_centrality_df()
+        - _create_communities_df()
+        + centrality()
+        + communities()
+    }
+```
