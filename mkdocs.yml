@@ -62,7 +62,6 @@ theme:
 
 # Plugins
 plugins:
-  - mkdocs-version-annotations
   - social
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
