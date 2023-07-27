@@ -121,15 +121,15 @@ With the data from the table below, we can see that our social network has `62 n
     [Eigenvector centrality](https://www.geeksforgeeks.org/eigenvector-centrality-centrality-measure/) is based on the analysis of the eigenvectors of the adjacency matrix of a graph. This measure is often used to identify community leaders in social networks. The interesting thing is that the 4th person <span style="color:#0066cc">Ziad Jarrah </span> is also the 4th pilot  because he is connected to the other 3 important pilots. A higher eigenvector score for Mohamed Atta means that he is connected to many nodes that themselves have high scores. We can also see that the other nodes are all very close to each other, they are not separated like in the previous three algorithms.
 
     | Index | Eigenvector centrality | Person |
-    |-------|------------------------|--------------------------------|
-    | 11    | 0.412506               | <span style="color:#ff4d4d">Mohamed Atta</span>     |
-    | 31    | 0.399862               | <span style="color:#990000">Marwan al-Shehhi </span>|
-    | 43    | 0.246944               | <span style="color:#33cc33">Hani Hanjour</span>     |
-    | 30    | 0.241743               | <span style="color:#0066cc">Ziad Jarrah</span>      |
-    | 40    | 0.238062               | Abdul Aziz Al Omari    |
-    | 24    | 0.223737               | <span style="color:orange">Ramzi bin al-Shibh</span>|
-    | 29    | 0.215109               | Said Bahaji            |
-    | 35    | 0.202387               | Fayez Ahmed            |
+    |-------|------------------------|------------------------------------------------------|
+    | 11    | 0.412506               | <span style="color:#ff4d4d">Mohamed Atta</span>      |
+    | 31    | 0.399862               | <span style="color:#990000">Marwan al-Shehhi </span> |
+    | 43    | 0.246944               | <span style="color:#33cc33">Hani Hanjour</span>      |
+    | 30    | 0.241743               | <span style="color:#0066cc">Ziad Jarrah</span>       |
+    | 40    | 0.238062               | <span style="color:orange">Abdul Aziz Al Omari</span>|
+    | 24    | 0.223737               | <span style="color:orange">Ramzi bin al-Shibh</span> |
+    | 29    | 0.215109               | <span style="color:orange">Said Bahaji </span>       |
+    | 35    | 0.202387               | <span style="color:orange">Fayez Ahmed </span>       |
 
 === "Comparison"
     | Index| La centralité de degré       | La centralité de proximité   | La centralité intermédiaire | La centralité vecteur propre |
@@ -138,15 +138,15 @@ With the data from the table below, we can see that our social network has `62 n
     | 31 | <span style="color:#990000">Marwan al-Shehhi </span>| <span style="color:#990000">Marwan al-Shehhi </span>| <span style="color:#990000">Marwan al-Shehhi </span>| <span style="color:#990000">Marwan al-Shehhi   </span>|
     | 43 | <span style="color:#33cc33">Hani Hanjour</span>  | <span style="color:#33cc33">Hani Hanjour</span>| <span style="color:#33cc33">Hani Hanjour</span>| <span style="color:#33cc33">Han Hanjour</span>|
     | 44 | <span style="color:#33cc33">Nawaf al-Hazmi </span>| <span style="color:#33cc33">Nawaf al-Hazmi </span>| <span style="color:#33cc33">Nawaf al-Hazmi </span> | -1                           |
-    | 1  | Essid Sami Ben Khemais       | Essid Sami Ben Khemais       | Essid Sami Ben Khemais       | -1                           |
+    | 1  | <span style="color:orange">Essid Sami Ben Khemais </span>       | <span style="color:orange">Essid Sami Ben Khemais  </span>      | <span style="color:orange">Essid Sami Ben Khemais  </span>       | -1                           |
     | 24 | <span style="color:orange">Ramzi bin al-Shibh</span> | <span style="color:orange">Ramzi bin al-Shibh</span> | -1   | <span style="color:orange">Ramzi bin al-Shibh</span>|
     | 30 | -1                           | <span style="color:#0066cc">Ziad Jarrah</span>      | -1                           | <span style="color:#0066cc">Ziad Jarrah</span>      |
-    | 40 | Abdul Aziz Al Omari          | Abdul Aziz Al Omari          | -1                           | Abdul Aziz Al Omari          |
+    | 40 | <span style="color:orange">Abdul Aziz Al Omari</span>         | <span style="color:orange">Abdul Aziz Al Omari</span>        | -1                           | <span style="color:orange">Abdul Aziz Al Omari</span>          |
     | 15 | -1                           | <span style="color:#33cc33">Zacarias Moussaoui</span>| <span style="color:#33cc33">Zacarias Moussaoui</span>| -1                           |
-    | 17 | -1                           | -1                            | Djamal Beghal                | -1                           |
-    | 39 | -1                           | -1                            | Satam Suqami                 | -1                           |
-    | 29 | -1                           | -1                            | -1                           | Said Bahaji                  |
-    | 35 | -1                           | -1                            | -1                           | Fayez Ahmed                  |
+    | 17 | -1                           | -1                            | <span style="color:orange">Djamal Beghal </span>               | -1                           |
+    | 39 | -1                           | -1                            | <span style="color:orange">Satam Suqami </span>                       | -1                           |
+    | 29 | -1                           | -1                            | -1                           | <span style="color:orange">Said Bahaji </span>                  |
+    | 35 | -1                           | -1                            | -1                           | <span style="color:orange">Fayez Ahmed</span>                   |
 
 **Conclusion**: We see the 3 first pilots appear 4 times in the table above, which confirms that these 3 pilots played an important role. Unlike the other pilots, <span style="color:#33cc33">Nawaf al-Hazmi </span> was considered the second-in-command of the attack. He also initially underwent pilot training but did not complete it. As we know, there were only 19 hijackers. <span style="color:orange">Ramzi bin al-Shibh</span> was selected as the "20th hijacker" to be one of the pilots, but was unable to enter the US. Both of these individuals have links to <span style="color:#ff4d4d">Mohamed Atta </span>, but <span style="color:#33cc33">Nawaf al-Hazmi </span> does not have the same links to other pilots like <span style="color:orange">Ramzi bin al-Shibh</span> who have high eigenvector centrality scores. Therefore, <span style="color:#33cc33">Nawaf al-Hazmi </span> does not appear on the eigenvector centrality list.
 
