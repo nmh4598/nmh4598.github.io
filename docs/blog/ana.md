@@ -162,9 +162,8 @@ The properties of the `Clauset-Newman-Moore` and `Girvan-Newman` algorithms are 
 Uncloaking Terrorist Networks by Valdis E.Krebs: 
 [https://journals.uic.edu/ojs/index.php/fm/article/view/941/863](https://journals.uic.edu/ojs/index.php/fm/article/view/941/863)
 
-"Mapping networks of terrorist cells.\" Connections 24, 43-52 (2002):
-[http://insna.org/PDF/Connections/v24/2001_I-3-7.pdf ](http://insna.org/PDF/Connections/v24/2001_I-3-7.pdf )
-
 Network catlogue, repository and centrifuge data Netzschleuder: [https://networks.skewed.de/net/terrorists_911](https://networks.skewed.de/net/terrorists_911)
+
+"Mapping networks of terrorist cells.\" Connections 24, 43-52 (2002)
 
 Network Analysis & Visualisation: Game of Thrones Character Network [Link](https://medium.com/analytics-vidhya/network-analysis-visualization-game-of-thrones-character-network-dc96ea3013e9)

@@ -106,7 +106,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Blog: 
-    - Network analysis: blog/ana.md
+    - Social network analysis: blog/ana.md
     - Test: blog/test.md
     - Machine learning: blog/ml.md
   - About: about.md
