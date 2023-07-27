@@ -1,0 +1,3 @@
+[submodule "projects/ana_soc_net"]
+	path = projects/ana_soc_net
+	url = git@github.com:nmh4598/ana_soc_net.git

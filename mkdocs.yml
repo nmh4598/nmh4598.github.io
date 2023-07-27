@@ -65,6 +65,11 @@ plugins:
   - social
   - search:
       separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            show_source: true
 
 # Customization
 extra:
@@ -106,6 +111,7 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
   - md_in_html
+
 # Page tree
 nav:
   - Home: index.md
@@ -115,5 +121,6 @@ nav:
     - Machine learning: blog/ml.md
     - Technical document:
       - Installation: blog/tech_doc/installation/ana.md
-
+  - Code references: 
+    - Social network analysis: code/ana.md
   - About: about.md
