@@ -121,6 +121,4 @@ nav:
     - Machine learning: blog/ml.md
     - Technical document:
       - Installation: blog/tech_doc/installation/ana.md
-  - Code references: 
-    - Social network analysis: code/ana.md
   - About: about.md
