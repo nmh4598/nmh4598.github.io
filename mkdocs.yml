@@ -123,8 +123,8 @@ nav:
   - Blog: 
     - Social network analysis: blog/ana.md
     - Deep Learning:
-      - Deep Learning: 
-        - Segmentation: blog/dl/scripts.ipynb
+      - Segmentation: 
+        - Semantic Drone Dataset: blog/dl/scripts.ipynb
     - Machine learning: blog//ml/ml.md
     - Time series: blog/ts.md
     - Technical document:
