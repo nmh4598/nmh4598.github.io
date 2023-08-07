@@ -70,7 +70,7 @@ plugins:
         python:
           options:
             show_source: true
-
+  - mkdocs-jupyter
 # Customization
 extra:
   social:
@@ -122,9 +122,12 @@ nav:
   - Home: index.md
   - Blog: 
     - Social network analysis: blog/ana.md
-    - Deep Learning: blog/dl.md
-    - Machine learning: blog/ml.md
+    - Deep Learning:
+      - Deep Learning: 
+        - Segmentation: blog/dl/scripts.ipynb
+    - Machine learning: blog//ml/ml.md
     - Time series: blog/ts.md
     - Technical document:
       - Installation: blog/tech_doc/installation/ana.md
+    - Demo: blog/demo.md
   - About: about.md
