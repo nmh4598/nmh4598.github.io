@@ -121,13 +121,14 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Blog: 
-    - Social network analysis: blog/ana.md
+    - Social network analysis: 
+      - Terrorist and random network analysis:  
+        - Installation: blog/sna/install.md
+        - Analysis: blog/sna/ana.md     
     - Deep Learning:
       - Segmentation: 
         - Semantic Drone Dataset: blog/dl/scripts.ipynb
     - Machine learning: blog//ml/ml.md
     - Time series: blog/ts.md
-    - Technical document:
-      - Installation: blog/tech_doc/installation/ana.md
     - Demo: blog/demo.md
   - About: about.md
