@@ -128,7 +128,10 @@ nav:
     - Deep Learning:
       - Segmentation: 
         - Semantic Drone Dataset: blog/dl/scripts.ipynb
-    - Machine learning: blog//ml/ml.md
-    - Time series: blog/ts/ts.md
+    - Machine learning: 
+      - Regression: 
+        - Modeling and predicting real estate prices in Seattle, Washington: blog/ml/house.ipynb
+    - Time series: 
+      - Modeling and forecasting the unemployment rate monthly in the United States: blog/ts/ts.md
     - Demo: blog/demo.md
   - About: about.md
