@@ -1,0 +1,1454 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, in 60+ languages, for all devices">
+      
+      
+        <meta name="author" content="NGUYEN Manh Hung">
+      
+      
+        <link rel="canonical" href="https://nmh4598.github.io/docs/blog/sna/ana/">
+      
+      
+        <link rel="prev" href="../install/">
+      
+      
+        <link rel="next" href="../../dl/scripts/">
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.2, mkdocs-material-9.1.19">
+    
+    
+      
+        <title>Analysis - NGUYEN Manh Hung</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.eebd395e.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ecc896b0.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/_mkdocstrings.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/extra.css">
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+      
+        <meta  property="og:type"  content="website" >
+      
+        <meta  property="og:title"  content="Analysis - NGUYEN Manh Hung" >
+      
+        <meta  property="og:description"  content="Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, in 60+ languages, for all devices" >
+      
+        <meta  property="og:image"  content="https://nmh4598.github.io/docs/assets/images/social/blog/sna/ana.png" >
+      
+        <meta  property="og:image:type"  content="image/png" >
+      
+        <meta  property="og:image:width"  content="1200" >
+      
+        <meta  property="og:image:height"  content="630" >
+      
+        <meta  property="og:url"  content="https://nmh4598.github.io/docs/blog/sna/ana/" >
+      
+        <meta  name="twitter:card"  content="summary_large_image" >
+      
+        <meta  name="twitter:title"  content="Analysis - NGUYEN Manh Hung" >
+      
+        <meta  name="twitter:description"  content="Write your documentation in Markdown and create a professional static site in minutes – searchable, customizable, in 60+ languages, for all devices" >
+      
+        <meta  name="twitter:image"  content="https://nmh4598.github.io/docs/assets/images/social/blog/sna/ana.png" >
+      
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#terrorist-and-random-network-analysis" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="NGUYEN Manh Hung" class="md-header__button md-logo" aria-label="NGUYEN Manh Hung" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            NGUYEN Manh Hung
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Analysis
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="(prefers-color-scheme)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+            
+              <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_3" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m14.3 16-.7-2h-3.2l-.7 2H7.8L11 7h2l3.2 9h-1.9M20 8.69V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69m-9.15 3.96h2.3L12 9l-1.15 3.65Z"/></svg>
+              </label>
+            
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_2">
+            
+              <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to system preference"  type="radio" name="__palette" id="__palette_3">
+            
+              <label class="md-header__button md-icon" title="Switch to system preference" for="__palette_2" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+        </form>
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/nmh4598/nmh4598.github.io" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2Z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    nmh4598/nmh4598.github.io
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../.." class="md-tabs__link">
+      Home
+    </a>
+  </li>
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    
+
+  
+  
+  
+    
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../install/" class="md-tabs__link md-tabs__link--active">
+        Blog
+      </a>
+    </li>
+  
+
+  
+
+  
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../../about/" class="md-tabs__link">
+      About
+    </a>
+  </li>
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="NGUYEN Manh Hung" class="md-nav__button md-logo" aria-label="NGUYEN Manh Hung" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+
+    </a>
+    NGUYEN Manh Hung
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/nmh4598/nmh4598.github.io" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2Z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    nmh4598/nmh4598.github.io
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          Blog
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          Blog
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+          Social network analysis
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_2_1">
+          <span class="md-nav__icon md-icon"></span>
+          Social network analysis
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_1" checked>
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_1_1" id="__nav_2_1_1_label" tabindex="0">
+          Terrorist and random network analysis
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_1_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_2_1_1">
+          <span class="md-nav__icon md-icon"></span>
+          Terrorist and random network analysis
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../install/" class="md-nav__link">
+        Installation
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Analysis
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Analysis
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#terrorist-and-random-network-analysis" class="md-nav__link">
+    Terrorist and random network analysis
+  </a>
+  
+    <nav class="md-nav" aria-label="Terrorist and random network analysis">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#description" class="md-nav__link">
+    Description
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#characteristics" class="md-nav__link">
+    Characteristics
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#centrality" class="md-nav__link">
+    Centrality
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#community" class="md-nav__link">
+    Community
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#references-and-useful-links" class="md-nav__link">
+    References and useful links
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+          Deep Learning
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2_2">
+          <span class="md-nav__icon md-icon"></span>
+          Deep Learning
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_2_1" id="__nav_2_2_1_label" tabindex="0">
+          Segmentation
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_1_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2_2_1">
+          <span class="md-nav__icon md-icon"></span>
+          Segmentation
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../dl/scripts/" class="md-nav__link">
+        Semantic Drone Dataset
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+          Machine learning
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_3_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2_3">
+          <span class="md-nav__icon md-icon"></span>
+          Machine learning
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3_1" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_3_1" id="__nav_2_3_1_label" tabindex="0">
+          Regression
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_3_1_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2_3_1">
+          <span class="md-nav__icon md-icon"></span>
+          Regression
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ml/house/" class="md-nav__link">
+        Modeling and predicting real estate prices in Seattle, Washington
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" >
+      
+      
+      
+        <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+          Time series
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_4_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2_4">
+          <span class="md-nav__icon md-icon"></span>
+          Time series
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../ts/ts/" class="md-nav__link">
+        Modeling and forecasting the unemployment rate monthly in the United States
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../demo/" class="md-nav__link">
+        Demo
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../about/" class="md-nav__link">
+        About
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#terrorist-and-random-network-analysis" class="md-nav__link">
+    Terrorist and random network analysis
+  </a>
+  
+    <nav class="md-nav" aria-label="Terrorist and random network analysis">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#description" class="md-nav__link">
+    Description
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#characteristics" class="md-nav__link">
+    Characteristics
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#centrality" class="md-nav__link">
+    Centrality
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#community" class="md-nav__link">
+    Community
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#references-and-useful-links" class="md-nav__link">
+    References and useful links
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/nmh4598/nmh4598.github.io/edit/master/docs/blog/sna/ana.md" title="Edit this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+    
+      
+    
+    <a href="https://github.com/nmh4598/nmh4598.github.io/raw/master/docs/blog/sna/ana.md" title="View source of this page" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 18c.56 0 1 .44 1 1s-.44 1-1 1-1-.44-1-1 .44-1 1-1m0-3c-2.73 0-5.06 1.66-6 4 .94 2.34 3.27 4 6 4s5.06-1.66 6-4c-.94-2.34-3.27-4-6-4m0 6.5a2.5 2.5 0 0 1-2.5-2.5 2.5 2.5 0 0 1 2.5-2.5 2.5 2.5 0 0 1 2.5 2.5 2.5 2.5 0 0 1-2.5 2.5M9.27 20H6V4h7v5h5v4.07c.7.08 1.36.25 2 .49V8l-6-6H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h4.5a8.15 8.15 0 0 1-1.23-2Z"/></svg>
+    </a>
+  
+
+
+  <h1>Analysis</h1>
+
+<p>Social network analysis uses graph theory and network science to gain insights from data on people's connections. It involves representing individuals as nodes and their relationships as edges to construct a network graph. Metrics like degree centrality, cluster analysis, and betweenness centrality can then reveal how information spreads, who the influential people are, and what communities exist within the network. It dives into Python code with NetworkX constructing and implying social networks from real datasets.</p>
+<h2 id="terrorist-and-random-network-analysis">Terrorist and random network analysis</h2>
+<p>This project examines terrorist social networks using data available from data information sources in <a href="https://firstmonday.org/ojs/index.php/fm/article/view/941/863">Valdis Krebs' article</a>. Specifically, we examine the network surrounding the tragic events of <a href="https://fr.wikipedia.org/wiki/Attentats_du_11_septembre_2001">September 11, 2001</a>. The September 11, 2001 attacks were four Islamist suicide attacks carried out on the same day in the <img alt="🇺🇸" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f1fa-1f1f8.svg" title=":flag_us:" />United States. With the dataset, we are able to map a part of the network centered around the <a href="https://en.wikipedia.org/wiki/Hijackers_in_the_September_11_attacks">19 deceased hijackers</a>. This network gives us an insight into the terrorist organization.</p>
+<h3 id="description">Description</h3>
+<p>The September 11, 2001 attacks were four Islamist suicide attacks carried out on the same day in the <img alt="🇺🇸" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f1fa-1f1f8.svg" title=":flag_us:" />United States, causing the deaths of 2,977 people. They took place in Manhattan, New York, Arlington in Virginia, and Shanksville in Pennsylvania. Nineteen terrorists hijacked four commercial airplanes. Two planes, <span class="twemoji airplan1"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.56 3.91c.59.59.59 1.54 0 2.12l-3.89 3.89 2.12 9.19-1.41 1.42-3.88-7.43L9.6 17l.36 2.47-1.07 1.06-1.76-3.18-3.19-1.77L5 14.5l2.5.37L11.37 11 3.94 7.09l1.42-1.41 9.19 2.12 3.89-3.89c.56-.58 1.56-.58 2.12 0Z"/></svg></span> <a href="https://en.wikipedia.org/wiki/American_Airlines_Flight_11">AA 11</a> and <span class="twemoji airplan2"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.56 3.91c.59.59.59 1.54 0 2.12l-3.89 3.89 2.12 9.19-1.41 1.42-3.88-7.43L9.6 17l.36 2.47-1.07 1.06-1.76-3.18-3.19-1.77L5 14.5l2.5.37L11.37 11 3.94 7.09l1.42-1.41 9.19 2.12 3.89-3.89c.56-.58 1.56-.58 2.12 0Z"/></svg></span> <a href="https://en.wikipedia.org/wiki/United_Airlines_Flight_175">UA 175</a>, controlled respectively by <span style="color:#ff4d4d">Mohamed Atta</span> and <span style="color:#990000">Marwan al-Shehhi</span>, were flown into the Twin Towers of the World Trade Center (WTC) in Manhattan (New York), while a third plane was flown into the Pentagon, the headquarters of the Department of Defense, in Washington, D.C., killing all the people on board and many others working in these buildings. The third plane, <span class="twemoji airplan3"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.56 3.91c.59.59.59 1.54 0 2.12l-3.89 3.89 2.12 9.19-1.41 1.42-3.88-7.43L9.6 17l.36 2.47-1.07 1.06-1.76-3.18-3.19-1.77L5 14.5l2.5.37L11.37 11 3.94 7.09l1.42-1.41 9.19 2.12 3.89-3.89c.56-.58 1.56-.58 2.12 0Z"/></svg></span> <a href="https://en.wikipedia.org/wiki/American_Airlines_Flight_77">AA 77</a>, controlled by <span style="color:#33cc33">Hani Hanjour</span>, was also flown into the Pentagon. The fourth plane, <span class="twemoji airplan4"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.56 3.91c.59.59.59 1.54 0 2.12l-3.89 3.89 2.12 9.19-1.41 1.42-3.88-7.43L9.6 17l.36 2.47-1.07 1.06-1.76-3.18-3.19-1.77L5 14.5l2.5.37L11.37 11 3.94 7.09l1.42-1.41 9.19 2.12 3.89-3.89c.56-.58 1.56-.58 2.12 0Z"/></svg></span> <a href="https://en.wikipedia.org/wiki/United_Airlines_Flight_93">UA 93</a>, controlled by <span style="color:#0066cc">Ziad Jarrah</span>, crashed in a field in Shanksville, Pennsylvania.</p>
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/nmh4598/ana_soc_net/master/data/img/airplane.jpg" alt="Airplane image">
+</div>
+
+<p>We will discover the formation of terrorist social networks. The "Hamburg cell" was a group of radical Islamists based in Hamburg, <img alt="🇩🇪" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f1e9-1f1ea.svg" title=":flag_de:" /> Germany on November 1, 1998, which included students from different Arab countries who eventually became key agents in the September 11 attacks. They are the important members: <span style="color:#990000">Marwan al-Shehhi </span>, <span style="color:#0066cc">Ziad Jarrah </span > and <span style="color:#ff4d4d">Mohamed Atta</span>, who led the four hijacking teams, . They arrived in the <img alt="🇺🇸" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f1fa-1f1f8.svg" title=":flag_us:" />United States in mid-2000 to conduct flight training. Other members included <span style="color:orange">Said Bahaji, Zakariya Essabar, Mounir el-Motassadeq and Abdelghani Mzoudi</span>. And <span style="color:orange">Ramzi bin al-Shibh</span>, who conspired with the other three members but was unable to obtain a <img alt="🛂" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f6c2.svg" title=":passport_control:" /> visa to enter the <img alt="🇺🇸" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f1fa-1f1f8.svg" title=":flag_us:" /> United States. It was later replaced with <span style="color:#33cc33">Hani Hanjour</span>. But the first hijackers to arrive in the <img alt="🇺🇸" class="twemoji" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/1f1fa-1f1f8.svg" title=":flag_us:" />United States were <span style="color:#33cc33">Khalid al-Mihdhar</span> and <span style="color:#33cc33"> Nawaf al-Hazmi </span> in January 2000.</p>
+<h3 id="characteristics">Characteristics</h3>
+<p>With the data from the table below, we can see that our social network has <code>62 nodes</code>, including hijackers and co-conspirators. Thus, the <code>density</code> is 0.0804, which is quite <code>low</code>, indicating that the graph is sparse and there are relatively few links between nodes. The number of connected components in a graph is equal to 1, meaning that all nodes in the graph are connected to each other by a path. There are no subsets of nodes that are disconnected from each other and cannot be reached from one another. In this case, the graph is a <code>connected graph</code>. The average number of links that a node has in the graph, or the average degree, is equal to 4.9. The farthest nodes from each other are separated by 5 links. The average distance between all pairs of nodes is 2.94 links. A clustering coefficient of 0.49 would indicate that the nodes in a network are moderately well-clustered.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">Number of nodes</th>
+<th style="text-align: right;">Number of edges</th>
+<th style="text-align: left;">Directed graph</th>
+<th style="text-align: right;">Number of Components</th>
+<th style="text-align: right;">Average degre</th>
+<th style="text-align: right;">Density</th>
+<th style="text-align: right;">Diameter of Network</th>
+<th style="text-align: right;">Average Shortest Path</th>
+<th style="text-align: right;">Clustering</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">62</td>
+<td style="text-align: right;">152</td>
+<td style="text-align: left;">False</td>
+<td style="text-align: right;">1</td>
+<td style="text-align: right;">4.903</td>
+<td style="text-align: right;">0.08</td>
+<td style="text-align: right;">5</td>
+<td style="text-align: right;">2.946</td>
+<td style="text-align: right;">0.486</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Conclusion</strong>: Les 19 pirates de l'air n'ont pas agi seuls. Ils avaient 43 autres complices qui ne sont pas montés à bord de l'avion. These co-conspirators are money generators and also provide the skills and knowledge needed. Networks expose the hijackers and their network neighborhoods - their direct and indirect associates. There are a total of 152 links between 62 members. It is surprising that there are 10 co-conspirators who have less than 20 direct links with the hijackers (excluding the "Hamburg Cell"). The other co-conspirators have direct and indirect links with the "Hamburg Cell". This indicates that my network seems to be divided into two halves separated by the "Hamburg Cell". The distance between hijackers on the same team is also very low. Many pairs of team members were beyond each other's observability horizon - many on the same flight were more than two steps away from each other. This is like a strategy to keep team members apart from each other and other teams, minimizing damage to the network if a cell member is captured or otherwise compromised.</p>
+<h3 id="centrality">Centrality</h3>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:5"><input checked="checked" id="degree-centrality" name="__tabbed_1" type="radio" /><input id="closeness-centrality" name="__tabbed_1" type="radio" /><input id="betweenness-centrality" name="__tabbed_1" type="radio" /><input id="eigenvector-centrality" name="__tabbed_1" type="radio" /><input id="comparison" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="degree-centrality">Degree centrality</label><label for="closeness-centrality">Closeness centrality</label><label for="betweenness-centrality">Betweenness centrality</label><label for="eigenvector-centrality">Eigenvector centrality</label><label for="comparison">Comparison</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p><a href="https://www.geeksforgeeks.org/degree-centrality-centrality-measure/">Degree centrality</a> is the simplest of the four algorithms we will study. It is based on the degree, which we can find in the previous section. In social networks, degree centrality is a measure of popularity and  can be a good way to guess who is in charge. Degree centrality is a fairly rudimentary example, but the following sections present more complex solutions commonly used in network science. The first three <span    style="color:#ff4d4d">Mohamed Atta </span>, <span style="color:#990000">Marwan al-Shehhi </span>, and <span style="color:#33cc33">Hani Hanjour </span> are pilots, while the 4th pilot <span   style="color:#0066cc">Ziad Jarrah </span> is ranked 7th because he has fewer neighbors compared to the other pilots. <span style="color:#ff4d4d">Mohamed Atta </span>'s degree centrality is 0.36, which is much  higher than the individuals below because he has the most links.</p>
+<table>
+<thead>
+<tr>
+<th>Index</th>
+<th>Degree centrality</th>
+<th>Person</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11</td>
+<td>0.360656</td>
+<td><span style="color:#ff4d4d">Mohamed Atta</span></td>
+</tr>
+<tr>
+<td>31</td>
+<td>0.295082</td>
+<td><span style="color:#990000">Marwan al-Shehhi </span></td>
+</tr>
+<tr>
+<td>43</td>
+<td>0.213115</td>
+<td><span style="color:#33cc33">Hani Hanjour</span></td>
+</tr>
+<tr>
+<td>44</td>
+<td>0.180328</td>
+<td><span style="color:#33cc33"> Nawaf al-Hazmi </span></td>
+</tr>
+<tr>
+<td>1</td>
+<td>0.180328</td>
+<td><span style="color:orange">Essid Sami Ben Khemais</span></td>
+</tr>
+<tr>
+<td>24</td>
+<td>0.163934</td>
+<td><span style="color:orange">Ramzi bin al-Shibh</span></td>
+</tr>
+<tr>
+<td>30</td>
+<td>0.147541</td>
+<td><span style="color:#0066cc">Ziad Jarrah</span></td>
+</tr>
+<tr>
+<td>40</td>
+<td>0.147541</td>
+<td><span style="color:orange">Abdul Aziz Al Omari</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="tabbed-block">
+<p>The goal of <a href="https://www.geeksforgeeks.org/closeness-centrality-centrality-measure/">closeness centrality</a> is to study whether the node is close to other node and can interact with them quickly. The idea is to look at the distance between the nodes. The closeness centrality increases if its distance to other nodes is low. The first three <span style="color:#ff4d4d">Mohamed Atta </span>, <span style="color:#990000">Marwan al-Shehhi </span>, and <span style="color:#33cc33">Hani Hanjour </span> are pilots, while the 4th pilot <span style="color:#0066cc">Ziad Jarrah </span> does not appear because the distance to other nodes is high. <span style="color:#ff4d4d">Mohamed Atta </span>'s distance to other nodes is lower because his closeness centrality is equal to 0.58, which is the highest.</p>
+<table>
+<thead>
+<tr>
+<th>Index</th>
+<th>Closeness centrality</th>
+<th>Person</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11</td>
+<td>0.580952</td>
+<td><span style="color:#ff4d4d">Mohamed Atta</span></td>
+</tr>
+<tr>
+<td>31</td>
+<td>0.462121</td>
+<td><span style="color:#990000">Marwan al-Shehhi </span></td>
+</tr>
+<tr>
+<td>43</td>
+<td>0.442029</td>
+<td><span style="color:#33cc33">Hani Hanjour</span></td>
+</tr>
+<tr>
+<td>44</td>
+<td>0.438849</td>
+<td><span style="color:#33cc33"> Nawaf al-Hazmi </span></td>
+</tr>
+<tr>
+<td>15</td>
+<td>0.432624</td>
+<td><span style="color:#33cc33">Zacarias Moussaoui</span></td>
+</tr>
+<tr>
+<td>24</td>
+<td>0.432624</td>
+<td><span style="color:orange">Ramzi bin al-Shibh</span></td>
+</tr>
+<tr>
+<td>1</td>
+<td>0.429577</td>
+<td><span style="color:orange">Essid Sami Ben Khemais</span></td>
+</tr>
+<tr>
+<td>40</td>
+<td>0.420690</td>
+<td><span style="color:orange">Abdul Aziz Al Omari</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="tabbed-block">
+<p><a href="https://www.geeksforgeeks.org/betweenness-centrality-centrality-measure/">Betweenness centrality</a> is based on the assumption that the higher the number of shortest paths passing through a node, the more it acts as a broker (or a bridge). To calculate betweenness centrality, the shortest paths between each pair of nodes are found. The betweenness centrality value for a node or an edge is simply the number of these paths that pass through it. The goal of betweenness centrality is to measure how important a node is in connecting two other nodes in the graph or how a node serves as an intermediary. It also measures the usefulness of the node in communication and information transfer within the graph. The statistics of <span style="color:#ff4d4d">Mohamed Atta </span> are much higher than the others because he plays an important intermediary role in the network. Meanwhile, <span style="color:orange">Essid Sami Ben Khemais </span> and <span style="color:orange">Zacarias Moussaoui</span> are the ones who link <span style="color:#ff4d4d">Mohamed Atta </span> to other co-conspirators. So, they have just a slightly higher measure than the other pilots. Similar to the previous measure, the 4th pilot <span style="color:#0066cc">Ziad Jarrah </span> does not appear on the list.</p>
+<table>
+<thead>
+<tr>
+<th>Index</th>
+<th>Betweenness centrality</th>
+<th>Person</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11</td>
+<td>1074.215573</td>
+<td><span style="color:#ff4d4d">Mohamed Atta</span></td>
+</tr>
+<tr>
+<td>1</td>
+<td>459.973443</td>
+<td><span style="color:orange">Essid Sami Ben Khemais</span></td>
+</tr>
+<tr>
+<td>15</td>
+<td>415.416667</td>
+<td><span style="color:#33cc33">Zacarias Moussaoui</span></td>
+</tr>
+<tr>
+<td>44</td>
+<td>281.939683</td>
+<td><span style="color:#33cc33"> Nawaf al-Hazmi </span></td>
+</tr>
+<tr>
+<td>43</td>
+<td>230.985462</td>
+<td><span style="color:#33cc33">Hani Hanjour</span></td>
+</tr>
+<tr>
+<td>17</td>
+<td>221.583333</td>
+<td><span style="color:orange">Djamal Beghal</span></td>
+</tr>
+<tr>
+<td>31</td>
+<td>162.933836</td>
+<td><span style="color:#990000">Marwan al-Shehhi </span></td>
+</tr>
+<tr>
+<td>39</td>
+<td>92.178125</td>
+<td><span style="color:orange">Satam Suqami</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="tabbed-block">
+<p><a href="https://www.geeksforgeeks.org/eigenvector-centrality-centrality-measure/">Eigenvector centrality</a> is based on the analysis of the eigenvectors of the adjacency matrix of a graph. This measure is often used to identify community leaders in social networks. The interesting thing is that the 4th person <span style="color:#0066cc">Ziad Jarrah </span> is also the 4th pilot  because he is connected to the other 3 important pilots. A higher eigenvector score for Mohamed Atta means that he is connected to many nodes that themselves have high scores. We can also see that the other nodes are all very close to each other, they are not separated like in the previous three algorithms.</p>
+<table>
+<thead>
+<tr>
+<th>Index</th>
+<th>Eigenvector centrality</th>
+<th>Person</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11</td>
+<td>0.412506</td>
+<td><span style="color:#ff4d4d">Mohamed Atta</span></td>
+</tr>
+<tr>
+<td>31</td>
+<td>0.399862</td>
+<td><span style="color:#990000">Marwan al-Shehhi </span></td>
+</tr>
+<tr>
+<td>43</td>
+<td>0.246944</td>
+<td><span style="color:#33cc33">Hani Hanjour</span></td>
+</tr>
+<tr>
+<td>30</td>
+<td>0.241743</td>
+<td><span style="color:#0066cc">Ziad Jarrah</span></td>
+</tr>
+<tr>
+<td>40</td>
+<td>0.238062</td>
+<td><span style="color:orange">Abdul Aziz Al Omari</span></td>
+</tr>
+<tr>
+<td>24</td>
+<td>0.223737</td>
+<td><span style="color:orange">Ramzi bin al-Shibh</span></td>
+</tr>
+<tr>
+<td>29</td>
+<td>0.215109</td>
+<td><span style="color:orange">Said Bahaji </span></td>
+</tr>
+<tr>
+<td>35</td>
+<td>0.202387</td>
+<td><span style="color:orange">Fayez Ahmed </span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="tabbed-block">
+<table>
+<thead>
+<tr>
+<th>Index</th>
+<th>La centralité de degré</th>
+<th>La centralité de proximité</th>
+<th>La centralité intermédiaire</th>
+<th>La centralité vecteur propre</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>11</td>
+<td><span style="color:#ff4d4d">Mohamed Atta</span></td>
+<td><span style="color:#ff4d4d">Mohamed Atta</span></td>
+<td><span style="color:#ff4d4d">Mohamed Atta</span></td>
+<td><span style="color:#ff4d4d">Mohamed Atta</span></td>
+</tr>
+<tr>
+<td>31</td>
+<td><span style="color:#990000">Marwan al-Shehhi </span></td>
+<td><span style="color:#990000">Marwan al-Shehhi </span></td>
+<td><span style="color:#990000">Marwan al-Shehhi </span></td>
+<td><span style="color:#990000">Marwan al-Shehhi   </span></td>
+</tr>
+<tr>
+<td>43</td>
+<td><span style="color:#33cc33">Hani Hanjour</span></td>
+<td><span style="color:#33cc33">Hani Hanjour</span></td>
+<td><span style="color:#33cc33">Hani Hanjour</span></td>
+<td><span style="color:#33cc33">Han Hanjour</span></td>
+</tr>
+<tr>
+<td>44</td>
+<td><span style="color:#33cc33">Nawaf al-Hazmi </span></td>
+<td><span style="color:#33cc33">Nawaf al-Hazmi </span></td>
+<td><span style="color:#33cc33">Nawaf al-Hazmi </span></td>
+<td>-1</td>
+</tr>
+<tr>
+<td>1</td>
+<td><span style="color:orange">Essid Sami Ben Khemais </span></td>
+<td><span style="color:orange">Essid Sami Ben Khemais  </span></td>
+<td><span style="color:orange">Essid Sami Ben Khemais  </span></td>
+<td>-1</td>
+</tr>
+<tr>
+<td>24</td>
+<td><span style="color:orange">Ramzi bin al-Shibh</span></td>
+<td><span style="color:orange">Ramzi bin al-Shibh</span></td>
+<td>-1</td>
+<td><span style="color:orange">Ramzi bin al-Shibh</span></td>
+</tr>
+<tr>
+<td>30</td>
+<td>-1</td>
+<td><span style="color:#0066cc">Ziad Jarrah</span></td>
+<td>-1</td>
+<td><span style="color:#0066cc">Ziad Jarrah</span></td>
+</tr>
+<tr>
+<td>40</td>
+<td><span style="color:orange">Abdul Aziz Al Omari</span></td>
+<td><span style="color:orange">Abdul Aziz Al Omari</span></td>
+<td>-1</td>
+<td><span style="color:orange">Abdul Aziz Al Omari</span></td>
+</tr>
+<tr>
+<td>15</td>
+<td>-1</td>
+<td><span style="color:#33cc33">Zacarias Moussaoui</span></td>
+<td><span style="color:#33cc33">Zacarias Moussaoui</span></td>
+<td>-1</td>
+</tr>
+<tr>
+<td>17</td>
+<td>-1</td>
+<td>-1</td>
+<td><span style="color:orange">Djamal Beghal </span></td>
+<td>-1</td>
+</tr>
+<tr>
+<td>39</td>
+<td>-1</td>
+<td>-1</td>
+<td><span style="color:orange">Satam Suqami </span></td>
+<td>-1</td>
+</tr>
+<tr>
+<td>29</td>
+<td>-1</td>
+<td>-1</td>
+<td>-1</td>
+<td><span style="color:orange">Said Bahaji </span></td>
+</tr>
+<tr>
+<td>35</td>
+<td>-1</td>
+<td>-1</td>
+<td>-1</td>
+<td><span style="color:orange">Fayez Ahmed</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<p><strong>Conclusion</strong>: We see the 3 first pilots appear 4 times in the table above, which confirms that these 3 pilots played an important role. Unlike the other pilots, <span style="color:#33cc33">Nawaf al-Hazmi </span> was considered the second-in-command of the attack. He also initially underwent pilot training but did not complete it. As we know, there were only 19 hijackers. <span style="color:orange">Ramzi bin al-Shibh</span> was selected as the "20th hijacker" to be one of the pilots, but was unable to enter the US. Both of these individuals have links to <span style="color:#ff4d4d">Mohamed Atta </span>, but <span style="color:#33cc33">Nawaf al-Hazmi </span> does not have the same links to other pilots like <span style="color:orange">Ramzi bin al-Shibh</span> who have high eigenvector centrality scores. Therefore, <span style="color:#33cc33">Nawaf al-Hazmi </span> does not appear on the eigenvector centrality list.</p>
+<h3 id="community">Community</h3>
+<p>The main goal of community detection is to partition the nodes of a graph into a finite number of groups and to find homogeneous groups of nodes, meaning individuals with similar behavior. By community, we mean a subset of nodes that are strongly connected, i.e., there are a significant number of connections between them, more than what these nodes have with other members of the network. We can quickly find a link between the hijackers and also discover some of the associates of the hijackers. Being associated with a terrorist does not prove guilt, but it can help the investigation process.</p>
+<p>The properties of the <code>Clauset-Newman-Moore</code> and <code>Girvan-Newman</code> algorithms are similar, but the <code>Girvan-Newman</code> algorithm focuses more on analyzing links in the network to identify communities, while the <code>Clauset-Newman-Moore</code> algorithm focuses on analyzing nodes. The <code>Louvain</code> algorithm is generally considered to be faster and more efficient than the <code>Clauset-Newman-Moore</code> and <code>Girvan-Newman</code> algorithms because it does not require specifying a number of communities in advance and is able to find communities of varying sizes. To construct a clandestine network, one must identify task and trust links between conspirators. These networks often do not behave like normal social networks. Conspirators do not form many links outside of their immediate cluster and often minimize activation of existing links within the network. Tight links between previous contacts, often formed years ago in school and training camps, keep the cells linked. Yet, unlike normal social networks, these strong links largely remain dormant and thus hidden to outsiders.</p>
+<h2 id="references-and-useful-links">References and useful links</h2>
+<p>Uncloaking Terrorist Networks by Valdis E.Krebs: 
+<a href="https://journals.uic.edu/ojs/index.php/fm/article/view/941/863">https://journals.uic.edu/ojs/index.php/fm/article/view/941/863</a></p>
+<p>Network catlogue, repository and centrifuge data Netzschleuder: <a href="https://networks.skewed.de/net/terrorists_911">https://networks.skewed.de/net/terrorists_911</a></p>
+<p>"Mapping networks of terrorist cells.\" Connections 24, 43-52 (2002)</p>
+<p>Network Analysis &amp; Visualisation: Game of Thrones Character Network <a href="https://medium.com/analytics-vidhya/network-analysis-visualization-game-of-thrones-character-network-dc96ea3013e9">Link</a></p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Back to top
+          </button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../install/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Installation" rel="prev">
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Installation
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../../dl/scripts/" class="md-footer__link md-footer__link--next" aria-label="Next: Semantic Drone Dataset" rel="next">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Semantic Drone Dataset
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      &copy; 2023 <a href="https://github.com/nmh4598"  target="_blank" rel="noopener">NGUYEN Manh Hung</a>
+
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://github.com/nmh4598" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+      
+      
+    
+    <a href="https://www.linkedin.com/in/nmh4598/" target="_blank" rel="noopener" title="www.linkedin.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+    </a>
+  
+    
+    
+    
+    
+    <a href="mailto:nguyenmanhhung04051998@gmail.com" target="_blank" rel="noopener" title="" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m20 8-8 5-8-5V6l8 5 8-5m0-2H4c-1.11 0-2 .89-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2Z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.sections", "navigation.top", "navigation.footer", "header.autohide", "search.suggest", "search.highlight", "content.tabs.link", "content.code.annotation", "content.code.copy", "content.action.view", "content.action.edit"], "search": "../../../assets/javascripts/workers/search.74e28a9f.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.220ee61c.min.js"></script>
+      
+        
+          <script src="../../../javascripts/katex.js"></script>
+        
+      
+        
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js"></script>
+        
+      
+        
+          <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js"></script>
+        
+      
+    
+  </body>
+</html>
