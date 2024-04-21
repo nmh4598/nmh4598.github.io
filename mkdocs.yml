@@ -1,6 +1,6 @@
 # Project information
 site_name: NGUYEN Manh Hung
-site_url: https://nmh4598.github.io/docs
+site_url: https://nmh4598.github.io/about
 site_author: NGUYEN Manh Hung
 site_description: >-
   Write your documentation in Markdown and create a professional static site in
@@ -140,7 +140,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-#  - Home: index.md
+  - Home: about.md
   - Blog: 
     - Social network analysis: 
       - Terrorist and random network analysis:  
@@ -153,4 +153,4 @@ nav:
         - Modeling and predicting real estate prices in Seattle, Washington: blog/ml/house.ipynb
     - Time series: 
       - Modeling and forecasting the unemployment rate monthly in the United States: blog/ts/ts.md
-  - About: about.md
+  
