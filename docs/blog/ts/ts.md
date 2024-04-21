@@ -1,6 +1,6 @@
 ## 
 
-### Introduction
+### 1. Introduction
 
 The unemployment rate is a crucial economic indicator for assessing the dynamism of the labor market. There are various causes for a high unemployment rate, including cyclical contractions in the economy or structural frictions in job search, such as stringent labor codes. The evolution of the unemployment rate is therefore vital for political and economic institutions, particularly the state and central banks, as it helps them make informed decisions regarding financial and monetary policies.
 
@@ -8,7 +8,7 @@ The United States of America's unemployment rate is particularly interesting due
 
 As part of our project, we aimed to model the unemployment rate to provide month-by-month forecasts for the upcoming years. Our dataset consists of a monthly time series spanning from 1948 to 2023, tracking the changes in the unemployment rate in the United States.
 
-### A history of unemployment in the united states
+### 2. A history of unemployment in the united states
 
 The raw time series we have poses two obstacles to effectively modeling the unemployment rate.
 ![1](./images/1.PNG )
@@ -18,7 +18,7 @@ The second obstacle is related to the COVID-19 pandemic that struck the world in
 
 However, the forecasts derived from the selected model will be performed on the 1989 series, encompassing the period up until the present, including the impact of the health crisis. Therefore, our analysis will be based on the monthly evolution of the unemployment rate over a thirty-year period, ranging from 1989 to 2019.
 ![2](./images/2.PNG )
-### Modeling unemployement: ARIMA, ARIMAX, LSTAR
+### 3. Modeling unemployement: ARIMA, ARIMAX, LSTAR
 
 We built three different models. Two of these models are linear – the ARIMA and ARIMAX models – while the third is nonlinear – the LSTAR model.
 The idea was to compare these three models using several indicators and retain the one whose intra-project forecasts sample were the most relevant.
@@ -48,7 +48,7 @@ The idea was to compare these three models using several indicators and retain t
 
     In the case of the LSTAR model, the obtained root mean square errors (RMSEs) are 0.170 for h = 1 and 0.216 for h = 5. These values are higher compared to the ARIMA and ARIMAX models, indicating that this third model may be less efficient. Similarly, Theil's U statistic is 1.700 for h = 1 and 0.766 for h = 4, suggesting that this model performs `better` than the naive model at the h = 4 horizon but worse than the first two models we considered.
 
-### Compare models
+### 4. Compare models
 Here is a table summarizing the performance of each of the three models we have built: 
 
 | Model  |       |ARIMA |       |          | ARIMAX |       |      |LSTAR   |      |
@@ -61,7 +61,7 @@ To complete this comparison of the three models, we used the Diebold-Mariano tes
 
 This confirms the proximity in announced performance of the models suggested by the very similar RMSE and Theil's U values. The Diebold-Mariano tests, with p-values much too high to reject the null hypothesis of equal predictive ability, did not separate our models.
 
-### Forecast of the developement of the unemployment rate 
+### 5. Forecast of the developement of the unemployment rate 
 Finally, we estimated the evolution of unemployment over the next two years. It is important to keep in mind that current global economic conditions are strongly impacted by high inflation, which reached 6.6% in December 2022. This rise in inflation, primarily linked to the pandemic, would be the result of supply chain disruptions as well as massive monetary aid from governments and central banks in 2020 and 2021. The Russian invasion of Ukraine in February 2022 exacerbated this situation by pushing up global oil and gas prices.
 
 ![4](./images/4.PNG )
@@ -80,7 +80,7 @@ historically realistic scenarios:
     In this second scenario, inflation is flat at 6.5% for the next two years. This scenario is less desirable than the first given the unstructured nature of inflation. In this second scenario, strongly inflationary, unemployment remains very low, around by 3.5%. Again, this result is consistent with the Phillips curve.
     ![6](./images/6.PNG )
 
-### Conclusion and recommendation 
+### 6. Conclusion and recommendation 
 The two scenarios considered above correspond to economic realities that American policy makers must take into account to arbitrate.
 The question can be posed in these terms: should we seek contain inflation at the cost of high unemployment or even, possibly a recession? If we assume that it priority must be given to curbing inflation, below which value would be considered reasonable? Public powers Americans prepared to deal with the rising unemployment rate? unemployment that would result?
 Having said that, we must keep in mind that these models economic figures are only simplified representations of reality. In order to make appropriate decisions, institutions must also consider other factors external, whether political or sociological. Policy makers need to consider a more complete, taking into account the historical, cultural contexts and specific institutions in the United States.

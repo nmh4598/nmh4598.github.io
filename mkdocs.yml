@@ -54,8 +54,7 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
   font:
-  font:
-    text: Roboto
+    text: Poppins
     code: Roboto Mono
   icon:
     repo: material/github
@@ -141,11 +140,10 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+#  - Home: index.md
   - Blog: 
     - Social network analysis: 
       - Terrorist and random network analysis:  
-        - Installation: blog/sna/install.md
         - Analysis: blog/sna/ana.md     
     - Deep Learning:
       - Segmentation: 
@@ -155,5 +153,4 @@ nav:
         - Modeling and predicting real estate prices in Seattle, Washington: blog/ml/house.ipynb
     - Time series: 
       - Modeling and forecasting the unemployment rate monthly in the United States: blog/ts/ts.md
-    - Demo: blog/demo.md
   - About: about.md
