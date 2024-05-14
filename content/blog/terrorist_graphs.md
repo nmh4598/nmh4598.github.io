@@ -1,6 +1,6 @@
 +++ 
 date = "2023-02-26" 
-title = "Analysis of terrorist 🦹 networks and random networks with Streamlit" 
+title = "Comparative Analysis: Terrorist Networks vs Random Networks Using Centrality and Community Detection with Streamlit" 
 tags = ['python-streamlit-graphs'] 
 toc = true
 +++
