@@ -1,7 +1,7 @@
 +++ 
 date = "2023-02-26" 
-title = "Analysis of terrorist 🦹 networks and random networks" 
-tags = ['python-graphs-streamlit'] 
+title = "Analysis of terrorist 🦹 networks and random networks with Streamlit" 
+tags = ['python-streamlit-graphs'] 
 toc = true
 +++
 
