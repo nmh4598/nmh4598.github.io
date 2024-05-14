@@ -1,34 +1,7 @@
-# nmh4598.github.io
+# Personal website
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hey man, it's you back when you first made this website.
 
-## Commands
-- Create a new project.
-```
-mkdocs new [dir-name]
-```
+To make changes you first have to [install Hugo](https://gohugo.io/getting-started/installing/). Then run `hugo serve --watch` and head to `localhost:1313`.
 
-- Start the live-reloading docs server.
-```
-mkdocs serve
-```
-
-- Build the documentation site.
-```
-mkdocs build
-```
-
-- Print help message and exit.
-```
-mkdocs -h
-```
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-## Git submodules 
-[Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+To publish the changes just push to the `dev` branch, Travis will take care of compiling the website and pushing it to the `master` branch.

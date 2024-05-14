@@ -1,0 +1,24 @@
+baseURL = "https://nmh4598.github.io/"
+languageCode = "en-us"
+title = "Nguyen Manh Hung"
+theme = "yinyang"
+enableRobotsTXT = true
+pygmentsUseClasses = true
+enableEmoji = true
+
+[author]
+  email = "nguyenmanhhung04051998@gmail.com"
+  name = "Nguyen Manh Hung"
+
+[params]
+  headTitle = "Nguyen Manh Hung "
+  mainSections = ["blog"]
+  description = "Nguyen Manh Hung's blog ツ"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
