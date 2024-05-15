@@ -15,6 +15,7 @@ toc: true
 - [14.310x Data Analysis For Social Scientists](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/pages/syllabus/)
 - [CS 228 - Probabilistic Graphical Models](https://ermongroup.github.io/cs228/)
 - [Numerical Tours in Python](https://www.numerical-tours.com/python/)
+- [SDD](https://supaerodatascience.github.io/#fsd312)
 
 ## Graphs
 - [Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/)
