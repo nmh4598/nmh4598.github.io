@@ -30,6 +30,7 @@ toc: true
 - [CS230](https://cs230.stanford.edu/syllabus/)
 - [Dive into Deep Learning](https://d2l.ai/index.html#) 
 - [STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html)
+- [Apprentissage et génération par échantillonnage aléatoire](https://www.college-de-france.fr/fr/agenda/cours/apprentissage-et-generation-par-echantillonnage-aleatoire)
 
 ## DBMS
 - [6.5830/6.5831: Database Systems](https://dsg.csail.mit.edu/6.5830/assign.php)
