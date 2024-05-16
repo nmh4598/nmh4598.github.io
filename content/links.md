@@ -39,6 +39,7 @@ toc: true
 - [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/)
 
 ## Reinforcement Learning | Meta Learning
+- [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - CS330: Deep Multi-Task and Meta Learning
 
