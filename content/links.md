@@ -21,8 +21,7 @@ toc: true
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist?fbclid=IwZXh0bgNhZW0CMTAAAR1ALRG2NUyqyQ9dxqLtipdaW_XxQbFXBAJgRLCK4pKNP-yNJSZekyq7EUI_aem_Aat0dh9a11u8xEb4IrKlB1lzgElGgqiTyIN02g53Qumir7BCTxLfTy88vW0oFocDw_GrfppQftSnB3yEF2ujyHvO)
 
 ## Machine learning
-- [The Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)
-- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf)
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 - [CS-401 Applied Data Analysis (ADA)](https://epfl-ada.github.io/teaching/fall2023/cs401/)
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html?fbclid=IwAR06g-h3O1uzvnf4EPaARb93sCHb8PdUUB96m8-IMTijhF6qSJb4QHjAPsc)
 - [Apprentissage et génération par échantillonnage aléatoire](https://www.college-de-france.fr/fr/agenda/cours/apprentissage-et-generation-par-echantillonnage-aleatoire)
