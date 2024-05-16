@@ -46,7 +46,7 @@ toc: true
 - [CMU 15-445/645 Database Systems](https://15445.courses.cs.cmu.edu/fall2023/)
 - [CMU 15-721 Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/)
 
-## Econometris | Interpretable ML | Causality
+## Econometris | Interpretable  | Explainable | Causality
 - [Introduction to Econometrics ](https://www.academia.edu/33062577/Dougherty_Intro_to_Econometrics_4th_ed_small?auto=download)
 - [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10EconometricTheorems/)
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/ITER.pdf)
