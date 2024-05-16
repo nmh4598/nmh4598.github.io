@@ -36,7 +36,7 @@ toc: true
 - [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
 - [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/)
 
-## Reinforcement Learning|Meta Learning
+## Reinforcement Learning | Meta Learning
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - CS330: Deep Multi-Task and Meta Learning
 
@@ -46,7 +46,7 @@ toc: true
 - [CMU 15-445/645 Database Systems](https://15445.courses.cs.cmu.edu/fall2023/)
 - [CMU 15-721 Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/)
 
-## Econometris|Interpretable ML|Causality
+## Econometris | Interpretable ML | Causality
 - [Introduction to Econometrics ](https://www.academia.edu/33062577/Dougherty_Intro_to_Econometrics_4th_ed_small?auto=download)
 - [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10EconometricTheorems/)
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/ITER.pdf)
@@ -56,7 +56,7 @@ toc: true
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [A First Course in Causal Inference](https://arxiv.org/abs/2305.18793)
 
-## NLP|LLM
+## NLP | LLM
 - [CS/LTI 11-711: Advanced NLP](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
 - CS/LTI 11-747: Neural Networks for NLP
 - [Large Language Model Course](https://github.com/nmh4598/llm-course)
@@ -71,7 +71,7 @@ toc: true
 - [Christophe Giraud](https://www.imo.universite-paris-saclay.fr/~christophe.giraud/#about)
 - [Emmanuel Rachelson](https://github.com/erachelson)
 - [Jérémy L’Hour](https://sites.google.com/site/jeremylhour/home)
-- [Aman Chadha ](https://aman.ai/watch/)
+- [Aman Chadha](https://aman.ai/watch/)
 
 ## Nice stuff
 - [Calmcode](https://calmcode.io/?fbclid=IwAR1H8tc7wDp7g4rutWVxMj5ku0quP2nt7v57pXJz9hH_OeihncpUA7dW3nM) Short and simple video
