@@ -41,7 +41,8 @@ toc: true
 ## Reinforcement Learning | Meta Learning
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-- CS330: Deep Multi-Task and Meta Learning
+- [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/)
+- [CS330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
 
 ## Data engineering | DBMS
 - [6.5830/6.5831: Database Systems](https://dsg.csail.mit.edu/6.5830/assign.php)
