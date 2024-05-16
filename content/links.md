@@ -77,6 +77,7 @@ toc: true
 - [Jérémy L’Hour](https://sites.google.com/site/jeremylhour/home)
 - [Aman Chadha](https://aman.ai/watch/)
 - [Dennis G. Wilson](https://d9w.github.io/)
+- [Jean Gallier](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 
 ## Nice stuff
 - [Calmcode](https://calmcode.io/?fbclid=IwAR1H8tc7wDp7g4rutWVxMj5ku0quP2nt7v57pXJz9hH_OeihncpUA7dW3nM) Short and simple video
