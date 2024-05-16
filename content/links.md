@@ -72,7 +72,7 @@ toc: true
 - [Emmanuel Rachelson](https://github.com/erachelson)
 - [Jérémy L’Hour](https://sites.google.com/site/jeremylhour/home)
 - [Aman Chadha](https://aman.ai/watch/)
-- [Eric Medvet](https://medvet.inginf.units.it/)
+- [Dennis G. Wilson](https://d9w.github.io/)
 
 ## Nice stuff
 - [Calmcode](https://calmcode.io/?fbclid=IwAR1H8tc7wDp7g4rutWVxMj5ku0quP2nt7v57pXJz9hH_OeihncpUA7dW3nM) Short and simple video
