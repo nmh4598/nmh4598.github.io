@@ -12,7 +12,7 @@ From May Sep 2022 to Sep 2023, I pursue a work-study program as a Apprentice Dat
 
 Now, i'm seeking a job as a Data Scientist or Data Analyst in any fields, starting as soon as possible. Feel free to send me an email at [nguyenmanhhung04051998@gmail.com](mailto:nguyenmanhhung04051998@gmail.com) if you have an offer for me 🤝.
 
-## [Master 1 cours](https://formations.univ-rennes.fr/annee/master-1-mathematiques-appliquees-statistiques-0): 
+<!-- ## [Master 1 cours](https://formations.univ-rennes.fr/annee/master-1-mathematiques-appliquees-statistiques-0): 
 - [Inferential statistics](https://formations.univ-rennes.fr/statistique-inferentielle): Hypothesis testing, Loss function,..
 - [Factor analysis of data](https://formations.univ-rennes.fr/analyse-factorielle-des-donnees): PCA, CFA, MFMA
 - [Linear regression and analysis of variance](https://formations.univ-rennes.fr/regression-lineaire-et-analyse-la-variance): Gaussian linear model, OLS, Variables selections
@@ -35,4 +35,4 @@ Now, i'm seeking a job as a Data Scientist or Data Analyst in any fields, starti
 - [Panel data models and mixed models](https://sites-formations.univ-rennes2.fr/master-mas/cours/M2/rennes1/modeles-donnees-panel-mixtes/)
 - Data Engineering: Docker, ETL, ...
 - [Data management et Business Intelligence](https://sites-formations.univ-rennes2.fr/master-mas/cours/M2/rennes1/data-managment-bi/): PowerBI, Qlik Sense
-- [Marketing](https://sites-formations.univ-rennes2.fr/master-mas/cours/M2/rennes1/marketing/)
+- [Marketing](https://sites-formations.univ-rennes2.fr/master-mas/cours/M2/rennes1/marketing/) -->
