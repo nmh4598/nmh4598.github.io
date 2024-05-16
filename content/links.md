@@ -43,7 +43,7 @@ toc: true
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - CS330: Deep Multi-Task and Meta Learning
 
-## Data engineering|DBMS
+## Data engineering | DBMS
 - [6.5830/6.5831: Database Systems](https://dsg.csail.mit.edu/6.5830/assign.php)
 - [MIT Database Systems (6.830) TA Course Notes](https://blog.marcua.net/2009/06/03/mit-database-systems-6830-ta-course-notes.html)
 - [CMU 15-445/645 Database Systems](https://15445.courses.cs.cmu.edu/fall2023/)
