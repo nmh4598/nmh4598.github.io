@@ -15,22 +15,23 @@ toc: true
 - [14.310x Data Analysis For Social Scientists](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/pages/syllabus/)
 - [CS 228 - Probabilistic Graphical Models](https://ermongroup.github.io/cs228/)
 - [Numerical Tours in Python](https://www.numerical-tours.com/python/)
-- [SDD](https://supaerodatascience.github.io/#fsd312)
-
-## Graphs
-- [Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/)
-- [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
-- [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/)
+- [Data and Decision Sciences](https://supaerodatascience.github.io/#fsd312)
+- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist?fbclid=IwZXh0bgNhZW0CMTAAAR1ALRG2NUyqyQ9dxqLtipdaW_XxQbFXBAJgRLCK4pKNP-yNJSZekyq7EUI_aem_Aat0dh9a11u8xEb4IrKlB1lzgElGgqiTyIN02g53Qumir7BCTxLfTy88vW0oFocDw_GrfppQftSnB3yEF2ujyHvO)
 
 ## Machine learning
 - [CS-401 Applied Data Analysis (ADA)](https://epfl-ada.github.io/teaching/fall2023/cs401/)
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html?fbclid=IwAR06g-h3O1uzvnf4EPaARb93sCHb8PdUUB96m8-IMTijhF6qSJb4QHjAPsc)
+- [Apprentissage et génération par échantillonnage aléatoire](https://www.college-de-france.fr/fr/agenda/cours/apprentissage-et-generation-par-echantillonnage-aleatoire)
 
 ## Deep Learning
 - [CS230](https://cs230.stanford.edu/syllabus/)
 - [Dive into Deep Learning](https://d2l.ai/index.html#) 
 - [STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html)
-- [Apprentissage et génération par échantillonnage aléatoire](https://www.college-de-france.fr/fr/agenda/cours/apprentissage-et-generation-par-echantillonnage-aleatoire)
+
+## Graphs
+- [Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/)
+- [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
+- [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/)
 
 ## DBMS
 - [6.5830/6.5831: Database Systems](https://dsg.csail.mit.edu/6.5830/assign.php)
@@ -42,6 +43,19 @@ toc: true
 - [explained.ai](https://explained.ai/)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [A First Course in Causal Inference](https://arxiv.org/abs/2305.18793)
+
+## LLM
+- [Large Language Model Course](https://github.com/nmh4598/llm-course)
+
+## Researcher 
+- [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/)
+- [Emilie Chouzenoux](https://pages.saclay.inria.fr/emilie.chouzenoux/indexEN.html)
+- [Gabriel Peyré](https://www.gpeyre.com/teaching/)
+- [Laurent Rouvière](https://lrouviere.github.io/page_perso/)
+- [Romain Tavenard](https://rtavenar.github.io/research/bio.html)
+- [Clément Chadebec](https://clementchadebec.github.io/)
+- [Christophe Giraud](https://www.imo.universite-paris-saclay.fr/~christophe.giraud/#about)
+- [Emmanuel Rachelson](https://github.com/erachelson)
 
 ## Nice stuff
 - [Calmcode](https://calmcode.io/?fbclid=IwAR1H8tc7wDp7g4rutWVxMj5ku0quP2nt7v57pXJz9hH_OeihncpUA7dW3nM) Short and simple video
