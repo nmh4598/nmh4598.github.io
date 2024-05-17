@@ -4,7 +4,7 @@ title: Links
 toc: true
 ---
 
-"I don’t need to know everything, I just need to know where to find it, when I need it."
+<!-- "I don’t need to know everything, I just need to know where to find it, when I need it." -->
 
 ## Basic
 - [6.041SC Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
