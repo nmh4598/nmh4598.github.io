@@ -32,17 +32,17 @@ toc: true
 - [CS230](https://cs230.stanford.edu/syllabus/)
 - [Dive into Deep Learning](https://d2l.ai/index.html#) 
 - [STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html)
+- [CS330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
 
 ## Graphs
 - [Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/)
 - [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
 - [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/)
 
-## Reinforcement Learning | Meta Learning
+## Reinforcement Learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/)
-- [CS330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
 
 ## Data engineering | DBMS
 - [6.5830/6.5831: Database Systems](https://dsg.csail.mit.edu/6.5830/assign.php)
@@ -50,11 +50,14 @@ toc: true
 - [CMU 15-445/645 Database Systems](https://15445.courses.cs.cmu.edu/fall2023/)
 - [CMU 15-721 Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/)
 
-## Econometris | Interpretable | Explainable | Causality
+## Econometris | A/B Testing
 - [Introduction to Econometrics ](https://www.academia.edu/33062577/Dougherty_Intro_to_Econometrics_4th_ed_small?auto=download)
 - [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10EconometricTheorems/)
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/ITER.pdf)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
+- [A/B Testing](https://www.udacity.com/course/ab-testing--ud257?irclickid=30FWy1xhUxyKWohSYeUgQRR3UkHQdByNMSSnzI0&irgwc=1&utm_source=affiliate&utm_medium=ads_r&aff=2003851&utm_term=&utm_campaign=EdgeBingFlow_tuid%3A2EBB8E4CA3BA6BFB324F9DEFA2FD6A6E_&utm_content=&adid=1932937)
+
+## Interpretable | Explainable | Causality
 - [Causal Inference - The Mixtape](https://mixtape.scunning.com/)
 - [explained.ai](https://explained.ai/)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
@@ -62,7 +65,7 @@ toc: true
 
 ## NLP | LLM
 - [CS/LTI 11-711: Advanced NLP](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
-- CS/LTI 11-747: Neural Networks for NLP
+- [CS/LTI 11-747: Neural Networks for NLP](https://www.phontron.com/class/nn4nlp2021/)
 - [Large Language Model Course](https://github.com/nmh4598/llm-course)
 
 ## Researcher 
