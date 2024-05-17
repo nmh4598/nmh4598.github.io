@@ -6,7 +6,7 @@ toc: true
 
 <!-- "I don’t need to know everything, I just need to know where to find it, when I need it." -->
 
-## Basic
+## Basics
 - [6.041SC Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 - [6.042J Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/syllabus/)
 - [6.006 Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
@@ -52,12 +52,20 @@ toc: true
 - [Shopify](https://shopify.engineering/)
 - [Skyscanner](https://medium.com/@SkyscannerEng)
 - [Soundcloud](https://developers.soundcloud.com/blog/category/data)
+- [Spotify](https://engineering.atspotify.com/)
+- [Squareup](https://developer.squareup.com/blog/category/data-science/)
+- [Swiggy](https://bytes.swiggy.com/)
+- [Tinder](https://medium.com/tinder)
+- [Twitter](https://blog.x.com/engineering/en_us)
+- [Uber](https://www.uber.com/blog/engineering/)
+- [Wayfair](https://www.aboutwayfair.com/careers/tech-blog?q=&s=0&f0=00000178-3b97-d9a4-a37a-fbf744d20000)
+- [Vinted](https://vinted.engineering/)
 
 ## Causality | Interpretable | Explainable  
+- [A First Course in Causal Inference](https://arxiv.org/abs/2305.18793)
 - [Causal Inference - The Mixtape](https://mixtape.scunning.com/)
 - [explained.ai](https://explained.ai/)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-- [A First Course in Causal Inference](https://arxiv.org/abs/2305.18793)
 
 ## Data engineering | DBMS
 - [A guide to Database Performance for Developpers](https://use-the-index-luke.com/)
@@ -120,8 +128,6 @@ toc: true
 - [Ritchie Vink](https://www.ritchievink.com/)
 - [Start Data Engineering](https://www.startdataengineering.com/email-course/)
 - [Chip Huyen](https://huyenchip.com/blog/)
-
-<!-- ## Researchers
 - [Aman Chadha](https://aman.ai/watch/)
 - [Christophe Giraud](https://www.imo.universite-paris-saclay.fr/~christophe.giraud/#about)
 - [Clément Chadebec](https://clementchadebec.github.io/)
@@ -133,4 +139,8 @@ toc: true
 - [Jérémy L’Hour](https://sites.google.com/site/jeremylhour/home)
 - [Laurent Rouvière](https://lrouviere.github.io/page_perso/)
 - [Romain Tavenard](https://rtavenar.github.io/research/bio.html)
-- [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) -->
+- [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) 
+
+https://wandb.ai/syllogismos/machine-learning-with-graphs/reportlist
+
+-->
