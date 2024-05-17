@@ -50,7 +50,8 @@ toc: true
 - [Postman](https://medium.com/better-practices) 
 - [Prezi](https://engineering.prezi.com/) 
 - [Shopify](https://shopify.engineering/)
-- [Timescale](https://www.timescale.com/developers)
+- [Skyscanner](https://medium.com/@SkyscannerEng)
+- [Soundcloud](https://developers.soundcloud.com/blog/category/data)
 
 ## Causality | Interpretable | Explainable  
 - [Causal Inference - The Mixtape](https://mixtape.scunning.com/)
@@ -72,8 +73,7 @@ toc: true
 - [STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html)
 - [CS330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
 
-## Econometris | A/B Testing
-- [A/B Testing](https://www.udacity.com/course/ab-testing--ud257?irclickid=30FWy1xhUxyKWohSYeUgQRR3UkHQdByNMSSnzI0&irgwc=1&utm_source=affiliate&utm_medium=ads_r&aff=2003851&utm_term=&utm_campaign=EdgeBingFlow_tuid%3A2EBB8E4CA3BA6BFB324F9DEFA2FD6A6E_&utm_content=&adid=1932937)
+## Econometris
 - [Introduction to Econometrics ](https://www.academia.edu/33062577/Dougherty_Intro_to_Econometrics_4th_ed_small?auto=download)
 - [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10EconometricTheorems/)
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/ITER.pdf)
@@ -101,15 +101,15 @@ toc: true
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/)
 
-
-
 # Z 
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist?fbclid=IwZXh0bgNhZW0CMTAAAR1ALRG2NUyqyQ9dxqLtipdaW_XxQbFXBAJgRLCK4pKNP-yNJSZekyq7EUI_aem_Aat0dh9a11u8xEb4IrKlB1lzgElGgqiTyIN02g53Qumir7BCTxLfTy88vW0oFocDw_GrfppQftSnB3yEF2ujyHvO)
+- [A/B Testing](https://www.udacity.com/course/ab-testing--ud257?irclickid=30FWy1xhUxyKWohSYeUgQRR3UkHQdByNMSSnzI0&irgwc=1&utm_source=affiliate&utm_medium=ads_r&aff=2003851&utm_term=&utm_campaign=EdgeBingFlow_tuid%3A2EBB8E4CA3BA6BFB324F9DEFA2FD6A6E_&utm_content=&adid=1932937)
 - [Calmcode](https://calmcode.io/?fbclid=IwAR1H8tc7wDp7g4rutWVxMj5ku0quP2nt7v57pXJz9hH_OeihncpUA7dW3nM) Short and simple video
 - [Data and Decision Sciences](https://supaerodatascience.github.io/#fsd312)
 - [Numerical Tours in Python](https://www.numerical-tours.com/python/)
 - [OMSCS - Georgia Tech](https://omscs.gatech.edu/current-courses)
 - [News - Ycombinator ](https://news.ycombinator.com/)
+- [Timescale](https://www.timescale.com/developers)
 
 <!-- ## Blog 
 - [Alex Smola](https://alex.smola.org/teaching.html)
