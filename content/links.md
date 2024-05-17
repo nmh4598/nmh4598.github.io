@@ -78,13 +78,13 @@ toc: true
 ## Deep Learning
 - [6.S191 - Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [CS230](https://cs230.stanford.edu/syllabus/)
-- [Dive into Deep Learning](https://d2l.ai/index.html#) 
-- [STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html)
 - [CS330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
+- [STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html)
+- [Dive into Deep Learning](https://d2l.ai/index.html#) 
 
 ## Econometris
-- [Introduction to Econometrics ](https://www.academia.edu/33062577/Dougherty_Intro_to_Econometrics_4th_ed_small?auto=download)
 - [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10EconometricTheorems/)
+- [Introduction to Econometrics ](https://www.academia.edu/33062577/Dougherty_Intro_to_Econometrics_4th_ed_small?auto=download)
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/ITER.pdf)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 
