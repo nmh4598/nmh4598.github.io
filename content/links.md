@@ -4,7 +4,7 @@ title: Links
 toc: true
 ---
 
-# "I don’t need to know everything, I just need to know where to find it, when I need it." — Albert Einstein
+## "I don’t need to know everything, I just need to know where to find it, when I need it."
 
 ## Basic
 - [OMSCS - Georgia Tech](https://omscs.gatech.edu/current-courses)
