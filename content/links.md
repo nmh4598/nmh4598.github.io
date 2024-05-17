@@ -119,6 +119,7 @@ toc: true
 - [OMSCS - Georgia Tech](https://omscs.gatech.edu/current-courses)
 - [News - Ycombinator ](https://news.ycombinator.com/)
 - [Timescale](https://www.timescale.com/developers)
+- [Weight and biases - Customers & case studies](https://wandb.ai/site/customers)
 
 <!-- ## Blog 
 - [Alex Smola](https://alex.smola.org/teaching.html)
