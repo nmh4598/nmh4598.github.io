@@ -65,8 +65,10 @@ toc: true
 
 ## Causality | Interpretable | Explainable  
 - [A First Course in Causal Inference](https://arxiv.org/abs/2305.18793)
+- [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 - [Causal Inference - The Mixtape](https://mixtape.scunning.com/)
 - [explained.ai](https://explained.ai/)
+- [Do Why](https://www.pywhy.org/dowhy/v0.11.1/example_notebooks/nb_index.html)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ## Data engineering | DBMS
@@ -164,7 +166,9 @@ toc: true
 - [Laurent Rouvière](https://lrouviere.github.io/page_perso/)
 - [Romain Tavenard](https://rtavenar.github.io/research/bio.html)
 - [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) 
+- [MATTEO COURTHOUD](https://matteocourthoud.github.io/)
 
 https://wandb.ai/syllogismos/machine-learning-with-graphs/reportlist
 
 -->
+
