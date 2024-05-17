@@ -60,6 +60,7 @@ toc: true
 - [Uber](https://www.uber.com/blog/engineering/)
 - [Wayfair](https://www.aboutwayfair.com/careers/tech-blog?q=&s=0&f0=00000178-3b97-d9a4-a37a-fbf744d20000)
 - [Vinted](https://vinted.engineering/)
+- [Zendesk](https://zendesk.engineering/)
 - [Zillow](https://www.zillow.com/tech/)
 
 ## Causality | Interpretable | Explainable  
@@ -104,6 +105,27 @@ toc: true
 - [CS/LTI 11-711: Advanced NLP](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
 - [CS/LTI 11-747: Neural Networks for NLP](https://www.phontron.com/class/nn4nlp2021/)
 - [Large Language Model Course](https://github.com/nmh4598/llm-course)
+
+## R
+- [An Introduction to R](https://intro2r.com/)
+- [Advanced R](https://adv-r.hadley.nz/)
+- [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/)
+- [Big Book of R](https://www.bigbookofr.com/)
+- [Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
+- [Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
+- [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
+- [Efficient R programming](https://csgillespie.github.io/efficientR/performance.html)
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
+- [Geocomputation with R](https://r.geocompx.org/)
+- [Mastering Shiny](https://mastering-shiny.org/)
+- [Introduction to Data Science](https://rafalab.dfci.harvard.edu/dsbook-part-2/)
+- [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
+- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+- [R for Data Science (2e)](https://r4ds.hadley.nz/)
+- [R Graphics Cookbook](https://r-graphics.org/recipe-quick-scatter)
+- [Statistical Inference via Data Science](https://moderndive.com/)
+- [Telling Stories with Data](https://tellingstorieswithdata.com/)
+- [Welcome to Text Mining with R](https://www.tidytextmining.com/)
 
 ## Reinforcement Learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
