@@ -34,8 +34,22 @@ toc: true
 - [Godaddy](https://godaddy.github.io/engineering/blog-posts/)
 - [Google Research](https://research.google/blog/)
 - [Hootsuite](https://medium.com/hootsuite-engineering)
+- [Indeed](https://engineering.indeedblog.com/blog/)
+- [Instacard](https://tech.instacart.com/)
 - [Lambda](https://lambda.blinkit.com/tagged/data)
-- [Indeed](https://engineering.indeedblog.com/blog/) 
+- [Lyft](https://eng.lyft.com/)
+- [Medium](https://medium.engineering/)
+- [Netflix](https://netflixtechblog.com/?gi=95eca8442415)
+- [New York Times](https://open.nytimes.com/?gi=25ebb4d2bc12)
+- [Nextdoor](https://engblog.nextdoor.com/)
+- [NVIDIA](https://blogs.nvidia.com/)
+- [OLX](https://tech.olx.com/?gi=d52569550c1a)
+- [OpenAI](https://openai.com/news/research/)
+- [Paypal](https://medium.com/paypal-tech)
+- [Pinterest](https://medium.com/@Pinterest_Engineering)
+- [Postman](https://medium.com/better-practices) 
+- [Prezi](https://engineering.prezi.com/) 
+- [Shopify](https://shopify.engineering/)
 - [Timescale](https://www.timescale.com/developers)
 
 ## Causality | Interpretable | Explainable  
@@ -77,10 +91,6 @@ toc: true
 - [Apprentissage et génération par échantillonnage aléatoire](https://www.college-de-france.fr/fr/agenda/cours/apprentissage-et-generation-par-echantillonnage-aleatoire)
 - [Pattern Recognition And Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
-## Nice stuff
-- [Calmcode](https://calmcode.io/?fbclid=IwAR1H8tc7wDp7g4rutWVxMj5ku0quP2nt7v57pXJz9hH_OeihncpUA7dW3nM) Short and simple video
-- [Numerical Tours in Python](https://www.numerical-tours.com/python/)
-
 ## NLP | LLM
 - [CS/LTI 11-711: Advanced NLP](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
 - [CS/LTI 11-747: Neural Networks for NLP](https://www.phontron.com/class/nn4nlp2021/)
@@ -91,7 +101,27 @@ toc: true
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/)
 
-## Researchers
+
+
+# Z 
+- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist?fbclid=IwZXh0bgNhZW0CMTAAAR1ALRG2NUyqyQ9dxqLtipdaW_XxQbFXBAJgRLCK4pKNP-yNJSZekyq7EUI_aem_Aat0dh9a11u8xEb4IrKlB1lzgElGgqiTyIN02g53Qumir7BCTxLfTy88vW0oFocDw_GrfppQftSnB3yEF2ujyHvO)
+- [Calmcode](https://calmcode.io/?fbclid=IwAR1H8tc7wDp7g4rutWVxMj5ku0quP2nt7v57pXJz9hH_OeihncpUA7dW3nM) Short and simple video
+- [Data and Decision Sciences](https://supaerodatascience.github.io/#fsd312)
+- [Numerical Tours in Python](https://www.numerical-tours.com/python/)
+- [OMSCS - Georgia Tech](https://omscs.gatech.edu/current-courses)
+- [News - Ycombinator ](https://news.ycombinator.com/)
+
+<!-- ## Blog 
+- [Alex Smola](https://alex.smola.org/teaching.html)
+- [Jérôme Kunegis](https://networkscience.wordpress.com/)
+- [Max Halford ](https://maxhalford.github.io/)
+- [Maxime Labonne]( https://mlabonne.github.io/blog/)
+- [Vicki Boykis](https://vickiboykis.com/)
+- [Ritchie Vink](https://www.ritchievink.com/)
+- [Start Data Engineering](https://www.startdataengineering.com/email-course/)
+- [Chip Huyen](https://huyenchip.com/blog/)
+
+<!-- ## Researchers
 - [Aman Chadha](https://aman.ai/watch/)
 - [Christophe Giraud](https://www.imo.universite-paris-saclay.fr/~christophe.giraud/#about)
 - [Clément Chadebec](https://clementchadebec.github.io/)
@@ -103,25 +133,4 @@ toc: true
 - [Jérémy L’Hour](https://sites.google.com/site/jeremylhour/home)
 - [Laurent Rouvière](https://lrouviere.github.io/page_perso/)
 - [Romain Tavenard](https://rtavenar.github.io/research/bio.html)
-- [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/)
-
-# Z 
-- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist?fbclid=IwZXh0bgNhZW0CMTAAAR1ALRG2NUyqyQ9dxqLtipdaW_XxQbFXBAJgRLCK4pKNP-yNJSZekyq7EUI_aem_Aat0dh9a11u8xEb4IrKlB1lzgElGgqiTyIN02g53Qumir7BCTxLfTy88vW0oFocDw_GrfppQftSnB3yEF2ujyHvO)
-- [OMSCS - Georgia Tech](https://omscs.gatech.edu/current-courses)
-- [Data and Decision Sciences](https://supaerodatascience.github.io/#fsd312)
-
-
-
-<!-- ## Blog 
-- [Alex Smola](https://alex.smola.org/teaching.html)
-- [Jérôme Kunegis](https://networkscience.wordpress.com/)
-- [Max Halford ](https://maxhalford.github.io/)
-- [Maxime Labonne]( https://mlabonne.github.io/blog/)
-- [Vicki Boykis](https://vickiboykis.com/)
-- [Ritchie Vink](https://www.ritchievink.com/)
-- [Start Data Engineering](https://www.startdataengineering.com/email-course/)
-- [Chip Huyen](https://huyenchip.com/blog/)
-## Devops
-- [SRE Books](https://sre.google/books/?utm_source=devopsreadme.com&utm_medium=web)
-- [Container Training](https://container.training/) -->
-
+- [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) -->
