@@ -7,7 +7,6 @@ toc: true
 ## "I don’t need to know everything, I just need to know where to find it, when I need it."
 
 ## Basic
-- [OMSCS - Georgia Tech](https://omscs.gatech.edu/current-courses)
 - [6.041SC Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 - [6.042J Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/syllabus/)
 - [6.006 Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
@@ -15,10 +14,7 @@ toc: true
 - [6.851 Advanced Data Structures](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/pages/syllabus/)
 - [6.854J Advanced Algorithms](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/)
 - [14.310x Data Analysis For Social Scientists](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/pages/syllabus/)
-- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist?fbclid=IwZXh0bgNhZW0CMTAAAR1ALRG2NUyqyQ9dxqLtipdaW_XxQbFXBAJgRLCK4pKNP-yNJSZekyq7EUI_aem_Aat0dh9a11u8xEb4IrKlB1lzgElGgqiTyIN02g53Qumir7BCTxLfTy88vW0oFocDw_GrfppQftSnB3yEF2ujyHvO)
 - [CS 228 - Probabilistic Graphical Models](https://ermongroup.github.io/cs228/)
-- [Data and Decision Sciences](https://supaerodatascience.github.io/#fsd312)
-- [Numerical Tours in Python](https://www.numerical-tours.com/python/)
 
 ## Blogs 
 - [Airbnb](https://medium.com/airbnb-engineering)
@@ -83,6 +79,7 @@ toc: true
 
 ## Nice stuff
 - [Calmcode](https://calmcode.io/?fbclid=IwAR1H8tc7wDp7g4rutWVxMj5ku0quP2nt7v57pXJz9hH_OeihncpUA7dW3nM) Short and simple video
+- [Numerical Tours in Python](https://www.numerical-tours.com/python/)
 
 ## NLP | LLM
 - [CS/LTI 11-711: Advanced NLP](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
@@ -108,6 +105,10 @@ toc: true
 - [Romain Tavenard](https://rtavenar.github.io/research/bio.html)
 - [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/)
 
+# Z 
+- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist?fbclid=IwZXh0bgNhZW0CMTAAAR1ALRG2NUyqyQ9dxqLtipdaW_XxQbFXBAJgRLCK4pKNP-yNJSZekyq7EUI_aem_Aat0dh9a11u8xEb4IrKlB1lzgElGgqiTyIN02g53Qumir7BCTxLfTy88vW0oFocDw_GrfppQftSnB3yEF2ujyHvO)
+- [OMSCS - Georgia Tech](https://omscs.gatech.edu/current-courses)
+- [Data and Decision Sciences](https://supaerodatascience.github.io/#fsd312)
 
 
 
