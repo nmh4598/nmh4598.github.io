@@ -60,6 +60,7 @@ toc: true
 - [Uber](https://www.uber.com/blog/engineering/)
 - [Wayfair](https://www.aboutwayfair.com/careers/tech-blog?q=&s=0&f0=00000178-3b97-d9a4-a37a-fbf744d20000)
 - [Vinted](https://vinted.engineering/)
+- [Zillow](https://www.zillow.com/tech/)
 
 ## Causality | Interpretable | Explainable  
 - [A First Course in Causal Inference](https://arxiv.org/abs/2305.18793)
