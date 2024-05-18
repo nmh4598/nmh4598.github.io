@@ -54,7 +54,7 @@ toc: true
 
 ## Causality | Interpretable | Explainable | Fairness
 - [A First Course in Causal Inference](https://arxiv.org/abs/2305.18793)
-- [Applied Causal Inference Powered by ML and AI](https://arxiv.org/abs/2403.02467)
+- [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/)
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 - [Causal Inference - The Mixtape](https://mixtape.scunning.com/)
 - [explained.ai](https://explained.ai/)
@@ -166,4 +166,5 @@ toc: true
 - [Rob Donnelly](https://robdonnelly.me/)
 https://wandb.ai/syllogismos/machine-learning-with-graphs/reportlist
 [Xikai Zhao](http://xikaizhao.com/)
+
 -->
