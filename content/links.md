@@ -33,6 +33,7 @@ toc: true
 - [Instacard](https://tech.instacart.com/)
 - [Lambda](https://lambda.blinkit.com/tagged/data)
 - [Lyft](https://eng.lyft.com/)
+- [Microsoft](https://medium.com/data-science-at-microsoft)
 - [Netflix](https://netflixtechblog.com/?gi=95eca8442415)
 - [New York Times](https://open.nytimes.com/?gi=25ebb4d2bc12)
 - [Nextdoor](https://engblog.nextdoor.com/)
@@ -161,8 +162,7 @@ toc: true
 - [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) 
 - [MATTEO COURTHOUD](https://matteocourthoud.github.io/)
 - [Chris Luhrs](https://www.quora.com/profile/Chris-Luhrs)
-
+- [Rob Donnelly](https://robdonnelly.me/)
 https://wandb.ai/syllogismos/machine-learning-with-graphs/reportlist
 
 -->
-
