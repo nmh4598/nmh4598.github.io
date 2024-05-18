@@ -3,8 +3,9 @@ layout: default
 title: Links
 toc: true
 ---
-
 <!-- "I don’t need to know everything, I just need to know where to find it, when I need it." -->
+"Everything should be made as simple as possible, but not simpler."
+–Paraphrase of a quotation from Einstein (1934).
 
 ## Basics
 - [6.041SC Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
