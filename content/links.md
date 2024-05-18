@@ -109,6 +109,7 @@ toc: true
 - [CS/LTI 11-711: Advanced NLP](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
 - [CS/LTI 11-747: Neural Networks for NLP](https://www.phontron.com/class/nn4nlp2021/)
 - [Large Language Model Course](https://github.com/nmh4598/llm-course)
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) 
 
 ## R
 - [An Introduction to R](https://intro2r.com/)
