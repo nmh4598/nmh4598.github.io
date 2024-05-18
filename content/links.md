@@ -21,6 +21,7 @@ toc: true
 - [Airbnb](https://medium.com/airbnb-engineering)
 - [Bytebytego](https://blog.bytebytego.com/) 
 - [Canva](https://www.canva.dev/blog/engineering/)
+- [Cohere](https://cohere.com/blog)
 - [Confluent](https://www.confluent.io/blog/)
 - [Databricks](https://www.databricks.com/blog)
 - [Deezer](https://deezer.io/)
