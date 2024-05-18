@@ -76,8 +76,8 @@ toc: true
 - [CS230](https://cs230.stanford.edu/syllabus/)
 - [CS330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
 - [STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html)
-- [Dive into Deep Learning](https://d2l.ai/index.html#)  -->
-
+- [Dive into Deep Learning](https://d2l.ai/index.html#)  
+https://www.deeplearningbook.org/-->
 ## Econometris
 - [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10EconometricTheorems/)
 - [Introduction to Econometrics ](https://www.academia.edu/33062577/Dougherty_Intro_to_Econometrics_4th_ed_small?auto=download)
