@@ -82,12 +82,12 @@ toc: true
 - [CMU 15-721 Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/)
 - [NFE204](http://b3d.bdpedia.fr/intro.html)
 
-## Deep Learning
+<!-- ## Deep Learning
 - [6.S191 - Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [CS230](https://cs230.stanford.edu/syllabus/)
 - [CS330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
 - [STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html)
-- [Dive into Deep Learning](https://d2l.ai/index.html#) 
+- [Dive into Deep Learning](https://d2l.ai/index.html#)  -->
 
 ## Econometris
 - [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10EconometricTheorems/)
@@ -107,11 +107,11 @@ toc: true
 - [Apprentissage et génération par échantillonnage aléatoire](https://www.college-de-france.fr/fr/agenda/cours/apprentissage-et-generation-par-echantillonnage-aleatoire)
 - [Pattern Recognition And Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 
-## NLP | LLM
+<!-- ## NLP | LLM
 - [CS/LTI 11-711: Advanced NLP](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
 - [CS/LTI 11-747: Neural Networks for NLP](https://www.phontron.com/class/nn4nlp2021/)
 - [Large Language Model Course](https://github.com/nmh4598/llm-course)
-- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) 
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)  -->
 
 ## R
 - [An Introduction to R](https://intro2r.com/)
@@ -134,10 +134,10 @@ toc: true
 - [Telling Stories with Data](https://tellingstorieswithdata.com/)
 - [Welcome to Text Mining with R](https://www.tidytextmining.com/)
 
-## Reinforcement Learning 
+<!-- ## Reinforcement Learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-- [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/)
+- [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/) -->
 
 ## Z 
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist?fbclid=IwZXh0bgNhZW0CMTAAAR1ALRG2NUyqyQ9dxqLtipdaW_XxQbFXBAJgRLCK4pKNP-yNJSZekyq7EUI_aem_Aat0dh9a11u8xEb4IrKlB1lzgElGgqiTyIN02g53Qumir7BCTxLfTy88vW0oFocDw_GrfppQftSnB3yEF2ujyHvO)
