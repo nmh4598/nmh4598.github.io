@@ -146,6 +146,7 @@ toc: true
 - [News - Ycombinator ](https://news.ycombinator.com/)
 - [Timescale](https://www.timescale.com/developers)
 - [Weight and biases - Customers & case studies](https://wandb.ai/site/customers)
+- [ResearchRabbit](https://www.researchrabbit.ai/) 
 
 <!-- ## Blog 
 - [Alex Smola](https://alex.smola.org/teaching.html)
