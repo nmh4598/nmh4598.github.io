@@ -12,7 +12,7 @@ From May 2022 to Aug 2022, I embarked on a journey to extract meaningful insight
 
 From May Sep 2022 to Sep 2023, I pursue a work-study program as a Apprentice Data Scientist at Mayenne Departement Council in France. I focused on Open Data, Open Source, and Data Governance in the public sector. I leveraged open-source technologies like [Docker](https://www.docker.com/) and [Apache Airflow](https://airflow.apache.org/) to create a data pipeline for collecting data in batches from internal and external sources. I also built a model to predict the unemployment rate in Mayenne and developed a visually appealing dashboard 📊 to monitor territorial observatory indicators [(here)](https://data.lamayenne.fr/pages/observatoire/#population-emploi-logement-revenus).
 
-Now, i'm seeking a job as a Junior Data Scientist or Data Analyst in any fields, starting as soon as possible. Feel free to send me an email at [nguyenmanhhung04051998@gmail.com](mailto:nguyenmanhhung04051998@gmail.com) if you have an offer for me 🤝.
+I'm actively seeking a Junior Data Scientist or Junior Data Analyst position in any field and am eager to start immediately. Please feel free to reach out at. Feel free to send me an email at [nguyenmanhhung04051998@gmail.com](mailto:nguyenmanhhung04051998@gmail.com) if you have any opportunities available. 🤝
 
 <!-- ## [Master 1 cours](https://formations.univ-rennes.fr/annee/master-1-mathematiques-appliquees-statistiques-0): 
 - [Inferential statistics](https://formations.univ-rennes.fr/statistique-inferentielle): Hypothesis testing, Loss function,..
