@@ -77,6 +77,7 @@ toc: true
 - [MIT Database Systems (6.830) TA Course Notes](https://blog.marcua.net/2009/06/03/mit-database-systems-6830-ta-course-notes.html)
 - [CMU 15-445/645 Database Systems](https://15445.courses.cs.cmu.edu/fall2023/)
 - [CMU 15-721 Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/)
+- [NFE204](http://b3d.bdpedia.fr/intro.html)
 
 ## Deep Learning
 - [6.S191 - Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
