@@ -57,9 +57,10 @@ toc: true
 - [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/)
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 - [Causal Inference - The Mixtape](https://mixtape.scunning.com/)
-- [explained.ai](https://explained.ai/)
-- [FAIRNESS AND MACHINE LEARNING](https://fairmlbook.org/)
 - [Do Why](https://www.pywhy.org/dowhy/v0.11.1/example_notebooks/nb_index.html)
+- [explained.ai](https://explained.ai/)
+- [Fairness and machine learning](https://fairmlbook.org/)
+
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ## Data engineering | DBMS
