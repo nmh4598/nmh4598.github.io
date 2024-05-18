@@ -21,36 +21,25 @@ toc: true
 - [Airbnb](https://medium.com/airbnb-engineering)
 - [Bytebytego](https://blog.bytebytego.com/) 
 - [Canva](https://www.canva.dev/blog/engineering/)
-- [Cohere](https://cohere.com/blog)
-- [Confluent](https://www.confluent.io/blog/)
-- [Databricks](https://www.databricks.com/blog)
 - [Deezer](https://deezer.io/)
-- [Deliveroo](https://deliveroo.engineering/)
-- [Discord](https://discord.com/category/engineering)
 - [Dropbox](https://dropbox.tech/machine-learning)
 - [Ebay](https://innovation.ebayinc.com/tech/)
 - [Etsy](https://www.etsy.com/codeascraft) 
 - [Expedia](https://medium.com/expedia-group-tech)
 - [Flickr](https://code.flickr.net/)
 - [Giphy](https://engineering.giphy.com/blog/) 
-- [Godaddy](https://godaddy.github.io/engineering/blog-posts/)
-- [Google Research](https://research.google/blog/)
 - [Hootsuite](https://medium.com/hootsuite-engineering)
 - [Indeed](https://engineering.indeedblog.com/blog/)
 - [Instacard](https://tech.instacart.com/)
 - [Lambda](https://lambda.blinkit.com/tagged/data)
 - [Lyft](https://eng.lyft.com/)
-- [Medium](https://medium.engineering/)
 - [Netflix](https://netflixtechblog.com/?gi=95eca8442415)
 - [New York Times](https://open.nytimes.com/?gi=25ebb4d2bc12)
 - [Nextdoor](https://engblog.nextdoor.com/)
-- [NVIDIA](https://blogs.nvidia.com/)
-- [OLX](https://tech.olx.com/?gi=d52569550c1a)
-- [OpenAI](https://openai.com/news/research/)
 - [Paypal](https://medium.com/paypal-tech)
 - [Pinterest](https://medium.com/@Pinterest_Engineering)
-- [Postman](https://medium.com/better-practices) 
 - [Prezi](https://engineering.prezi.com/) 
+- [Quora](https://www.quora.com/profile/Chris-Luhrs)
 - [Shopify](https://shopify.engineering/)
 - [Skyscanner](https://medium.com/@SkyscannerEng)
 - [Soundcloud](https://developers.soundcloud.com/blog/category/data)
@@ -58,12 +47,9 @@ toc: true
 - [Squareup](https://developer.squareup.com/blog/category/data-science/)
 - [Swiggy](https://bytes.swiggy.com/)
 - [Tinder](https://medium.com/tinder)
-- [Twitter](https://blog.x.com/engineering/en_us)
 - [Uber](https://www.uber.com/blog/engineering/)
 - [Wayfair](https://www.aboutwayfair.com/careers/tech-blog?q=&s=0&f0=00000178-3b97-d9a4-a37a-fbf744d20000)
 - [Vinted](https://vinted.engineering/)
-- [Zendesk](https://zendesk.engineering/)
-- [Zillow](https://www.zillow.com/tech/)
 
 ## Causality | Interpretable | Explainable | Fairness
 - [A First Course in Causal Inference](https://arxiv.org/abs/2305.18793)
@@ -140,7 +126,7 @@ toc: true
 - [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/) -->
 
 ## Z 
-- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist?fbclid=IwZXh0bgNhZW0CMTAAAR1ALRG2NUyqyQ9dxqLtipdaW_XxQbFXBAJgRLCK4pKNP-yNJSZekyq7EUI_aem_Aat0dh9a11u8xEb4IrKlB1lzgElGgqiTyIN02g53Qumir7BCTxLfTy88vW0oFocDw_GrfppQftSnB3yEF2ujyHvO)
+<!-- - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist?fbclid=IwZXh0bgNhZW0CMTAAAR1ALRG2NUyqyQ9dxqLtipdaW_XxQbFXBAJgRLCK4pKNP-yNJSZekyq7EUI_aem_Aat0dh9a11u8xEb4IrKlB1lzgElGgqiTyIN02g53Qumir7BCTxLfTy88vW0oFocDw_GrfppQftSnB3yEF2ujyHvO) -->
 - [A/B Testing](https://www.udacity.com/course/ab-testing--ud257?irclickid=30FWy1xhUxyKWohSYeUgQRR3UkHQdByNMSSnzI0&irgwc=1&utm_source=affiliate&utm_medium=ads_r&aff=2003851&utm_term=&utm_campaign=EdgeBingFlow_tuid%3A2EBB8E4CA3BA6BFB324F9DEFA2FD6A6E_&utm_content=&adid=1932937)
 - [Calmcode](https://calmcode.io/?fbclid=IwAR1H8tc7wDp7g4rutWVxMj5ku0quP2nt7v57pXJz9hH_OeihncpUA7dW3nM) 
 - [Koaning](https://koaning.io/)
@@ -174,6 +160,7 @@ toc: true
 - [Romain Tavenard](https://rtavenar.github.io/research/bio.html)
 - [Stéphanie Allassonnière](https://sites.google.com/site/stephanieallassonniere/) 
 - [MATTEO COURTHOUD](https://matteocourthoud.github.io/)
+- [Chris Luhrs](https://www.quora.com/profile/Chris-Luhrs)
 
 https://wandb.ai/syllogismos/machine-learning-with-graphs/reportlist
 
