@@ -90,11 +90,13 @@ toc: true
 - [Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/)
 
 ## Machine learning
-- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+- [An Introduction to Statistical Learning](https://www.statlearning.com/?source=post_page-----8df2b706a0b1--------------------------------)
 - [CS-401 Applied Data Analysis (ADA)](https://epfl-ada.github.io/teaching/fall2023/cs401/)
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html?fbclid=IwAR06g-h3O1uzvnf4EPaARb93sCHb8PdUUB96m8-IMTijhF6qSJb4QHjAPsc)
-- [Apprentissage et génération par échantillonnage aléatoire](https://www.college-de-france.fr/fr/agenda/cours/apprentissage-et-generation-par-echantillonnage-aleatoire)
+- [Mathematics for Machine Learning](https://mml-book.github.io/?source=post_page-----8df2b706a0b1--------------------------------)
+<!-- - [Apprentissage et génération par échantillonnage aléatoire](https://www.college-de-france.fr/fr/agenda/cours/apprentissage-et-generation-par-echantillonnage-aleatoire) -->
 - [Pattern Recognition And Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 
 <!-- ## NLP | LLM
 - [CS/LTI 11-711: Advanced NLP](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
