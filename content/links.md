@@ -63,11 +63,12 @@ toc: true
 - [Zendesk](https://zendesk.engineering/)
 - [Zillow](https://www.zillow.com/tech/)
 
-## Causality | Interpretable | Explainable  
+## Causality | Interpretable | Explainable | Fairness
 - [A First Course in Causal Inference](https://arxiv.org/abs/2305.18793)
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 - [Causal Inference - The Mixtape](https://mixtape.scunning.com/)
 - [explained.ai](https://explained.ai/)
+- [FAIRNESS AND MACHINE LEARNING](https://fairmlbook.org/)
 - [Do Why](https://www.pywhy.org/dowhy/v0.11.1/example_notebooks/nb_index.html)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
