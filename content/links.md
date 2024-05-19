@@ -60,7 +60,6 @@ toc: true
 - [Do Why](https://www.pywhy.org/dowhy/v0.11.1/example_notebooks/nb_index.html)
 - [explained.ai](https://explained.ai/)
 - [Fairness and machine learning](https://fairmlbook.org/)
-
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ## Data engineering | DBMS
