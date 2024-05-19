@@ -124,10 +124,10 @@ https://www.deeplearningbook.org/-->
 - [Telling Stories with Data](https://tellingstorieswithdata.com/)
 - [Welcome to Text Mining with R](https://www.tidytextmining.com/)
 
-<!-- ## Reinforcement Learning 
+## Reinforcement Learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-- [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/) -->
+- [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/)
 
 ## Z 
 <!-- - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist?fbclid=IwZXh0bgNhZW0CMTAAAR1ALRG2NUyqyQ9dxqLtipdaW_XxQbFXBAJgRLCK4pKNP-yNJSZekyq7EUI_aem_Aat0dh9a11u8xEb4IrKlB1lzgElGgqiTyIN02g53Qumir7BCTxLfTy88vW0oFocDw_GrfppQftSnB3yEF2ujyHvO) -->
