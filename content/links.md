@@ -24,6 +24,7 @@ toc: true
 - [Deezer](https://deezer.io/)
 - [Dropbox](https://dropbox.tech/machine-learning)
 - [Ebay](https://innovation.ebayinc.com/tech/)
+- [EvidentlyAI](https://www.evidentlyai.com/ml-system-design?fbclid=IwZXh0bgNhZW0CMTAAAR3MQsrA_r5zw2qHUXWIzFlsAMcKE50FWowes8btOaMNo4xhWJ1sNW6zdQI_aem_AXze9EQZMsb9-0YNKpijURAj8qi7MtIHz01NlugIKQcdBwsUdmhWgEtcUUzEO_83ZjN6PAe6YT2JxqMGmEKLmBEy)
 - [Etsy](https://www.etsy.com/codeascraft) 
 - [Expedia](https://medium.com/expedia-group-tech)
 - [Flickr](https://code.flickr.net/)
