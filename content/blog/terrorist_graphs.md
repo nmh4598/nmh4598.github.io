@@ -1,6 +1,6 @@
 +++ 
 date = "2023-02-26" 
-title = "Exploring social network analysis for understanding and preventing terrorism 🦹" 
+title = "Exploring social network analysis for understanding terrorism 🦹" 
 tags = ['python-streamlit-graphs'] 
 toc = true
 +++
