@@ -1,11 +1,11 @@
 +++ 
 date = "2023-02-26" 
-title = "Terrorist networks using centrality and community detection and and simulating random networks with Streamlit" 
+title = "Exploring social network analysis for understanding and preventing terrorism 🦹" 
 tags = ['python-streamlit-graphs'] 
 toc = true
 +++
 
-Social network analysis uses graph theory and network science to gain insights from data on people's connections. It involves representing individuals as nodes and their relationships as edges to construct a network graph. Metrics like degree centrality, cluster analysis, and betweenness centrality can then reveal how information spreads, who the influential people are, and what communities exist within the network. It dives into Python code with NetworkX constructing and implying social networks from real datasets.
+**What is social network analysis and how can it be applied to help us understand the structure and dynamics of terrorist networks?** We'll demystify the basics of centrality, community and show you how it can reveal the inner workings of terrorist groups.
 
 You can access an interactive Streamlit dashboard here: [Link](https://nmh4598ana.streamlit.app/)
 
