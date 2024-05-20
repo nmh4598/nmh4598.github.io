@@ -4,16 +4,13 @@ title: Links
 toc: true
 ---
 <!-- "I don’t need to know everything, I just need to know where to find it, when I need it." -->
+Random links
 
-## Basics
-- [6.041SC Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
-- [6.042J Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/syllabus/)
+## Algorithms 
 - [6.006 Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
 - [6.046J Design And Analysis Of Algorithms](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/pages/syllabus/)
 - [6.851 Advanced Data Structures](https://ocw.mit.edu/courses/6-851-advanced-data-structures-spring-2012/pages/syllabus/)
 - [6.854J Advanced Algorithms](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2005/)
-- [14.310x Data Analysis For Social Scientists](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/pages/syllabus/)
-- [CS 228 - Probabilistic Graphical Models](https://ermongroup.github.io/cs228/)
 
 ## Blogs 
 - [Airbnb](https://medium.com/airbnb-engineering)
@@ -80,29 +77,18 @@ toc: true
 - [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
 - [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/)
 - [Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/)
+- [14.310x Data Analysis For Social Scientists](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/pages/syllabus/)
 
 ## Machine learning
+- [6.041SC Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
+- [6.042J Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/syllabus/)
 - [An Introduction to Statistical Learning](https://www.statlearning.com/?source=post_page-----8df2b706a0b1--------------------------------)
 - [CS-401 Applied Data Analysis (ADA)](https://epfl-ada.github.io/teaching/fall2023/cs401/)
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html?fbclid=IwAR06g-h3O1uzvnf4EPaARb93sCHb8PdUUB96m8-IMTijhF6qSJb4QHjAPsc)
 - [Mathematics for Machine Learning](https://mml-book.github.io/?source=post_page-----8df2b706a0b1--------------------------------)
 - [Pattern Recognition And Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
-
-## R
-- [Advanced R](https://adv-r.hadley.nz/)
-- [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/)
-- [Big Book of R](https://www.bigbookofr.com/)
-- [Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
-- [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
-- [Efficient R programming](https://csgillespie.github.io/efficientR/performance.html)
-- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
-- [Mastering Shiny](https://mastering-shiny.org/)
-- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
-- [R for Data Science (2e)](https://r4ds.hadley.nz/)
-- [Statistical Inference via Data Science](https://moderndive.com/)
-- [Telling Stories with Data](https://tellingstorieswithdata.com/)
-- [Welcome to Text Mining with R](https://www.tidytextmining.com/)
+- [CS 228 - Probabilistic Graphical Models](https://ermongroup.github.io/cs228/)
 
 ## Reinforcement Learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
