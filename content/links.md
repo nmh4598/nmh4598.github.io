@@ -90,7 +90,6 @@ Random links
 - [Pattern Recognition And Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 
-
 ## Reinforcement Learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
@@ -106,6 +105,7 @@ Random links
 - [News - Ycombinator ](https://news.ycombinator.com/)
 - [Timescale](https://www.timescale.com/developers)
 - [ResearchRabbit](https://www.researchrabbit.ai/) 
+- [Markov Chains and Mixing Times](https://darkwing.uoregon.edu/~dlevin/MARKOV/)
 
 <!-- ## Blog 
 - [Alex Smola](https://alex.smola.org/teaching.html)
