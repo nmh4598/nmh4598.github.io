@@ -4,8 +4,6 @@ title: Links
 toc: true
 ---
 <!-- "I don’t need to know everything, I just need to know where to find it, when I need it." -->
-"Everything should be made as simple as possible, but not simpler."
-–Paraphrase of a quotation from Einstein (1934).
 
 ## Basics
 - [6.041SC Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
@@ -51,6 +49,7 @@ toc: true
 - [Tinder](https://medium.com/tinder)
 - [Uber](https://www.uber.com/blog/engineering/)
 - [Wayfair](https://www.aboutwayfair.com/careers/tech-blog?q=&s=0&f0=00000178-3b97-d9a4-a37a-fbf744d20000)
+- [Weight and biases](https://wandb.ai/site/customers)
 - [Vinted](https://vinted.engineering/)
 
 ## Causality | Interpretable | Explainable | Fairness
@@ -71,13 +70,6 @@ toc: true
 - [CMU 15-721 Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/)
 - [NFE204](http://b3d.bdpedia.fr/intro.html)
 
-<!-- ## Deep Learning
-- [6.S191 - Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
-- [CS230](https://cs230.stanford.edu/syllabus/)
-- [CS330: Deep Multi-Task and Meta Learning](https://cs330.stanford.edu/)
-- [STAT 157](https://courses.d2l.ai/berkeley-stat-157/index.html)
-- [Dive into Deep Learning](https://d2l.ai/index.html#)  
-https://www.deeplearningbook.org/-->
 ## Econometris
 - [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10EconometricTheorems/)
 - [Introduction to Econometrics ](https://www.academia.edu/33062577/Dougherty_Intro_to_Econometrics_4th_ed_small?auto=download)
@@ -94,33 +86,20 @@ https://www.deeplearningbook.org/-->
 - [CS-401 Applied Data Analysis (ADA)](https://epfl-ada.github.io/teaching/fall2023/cs401/)
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html?fbclid=IwAR06g-h3O1uzvnf4EPaARb93sCHb8PdUUB96m8-IMTijhF6qSJb4QHjAPsc)
 - [Mathematics for Machine Learning](https://mml-book.github.io/?source=post_page-----8df2b706a0b1--------------------------------)
-<!-- - [Apprentissage et génération par échantillonnage aléatoire](https://www.college-de-france.fr/fr/agenda/cours/apprentissage-et-generation-par-echantillonnage-aleatoire) -->
 - [Pattern Recognition And Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 
-<!-- ## NLP | LLM
-- [CS/LTI 11-711: Advanced NLP](https://www.youtube.com/playlist?list=PL8PYTP1V4I8D0UkqW2fEhgLrnlDW9QK7z)
-- [CS/LTI 11-747: Neural Networks for NLP](https://www.phontron.com/class/nn4nlp2021/)
-- [Large Language Model Course](https://github.com/nmh4598/llm-course)
-- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)  -->
-
 ## R
-- [An Introduction to R](https://intro2r.com/)
 - [Advanced R](https://adv-r.hadley.nz/)
 - [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/)
 - [Big Book of R](https://www.bigbookofr.com/)
-- [Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
 - [Documents with R Markdown](https://bookdown.org/yihui/bookdown/)
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
 - [Efficient R programming](https://csgillespie.github.io/efficientR/performance.html)
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
-- [Geocomputation with R](https://r.geocompx.org/)
 - [Mastering Shiny](https://mastering-shiny.org/)
-- [Introduction to Data Science](https://rafalab.dfci.harvard.edu/dsbook-part-2/)
-- [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
 - [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 - [R for Data Science (2e)](https://r4ds.hadley.nz/)
-- [R Graphics Cookbook](https://r-graphics.org/recipe-quick-scatter)
 - [Statistical Inference via Data Science](https://moderndive.com/)
 - [Telling Stories with Data](https://tellingstorieswithdata.com/)
 - [Welcome to Text Mining with R](https://www.tidytextmining.com/)
@@ -131,7 +110,6 @@ https://www.deeplearningbook.org/-->
 - [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/)
 
 ## Z 
-<!-- - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist?fbclid=IwZXh0bgNhZW0CMTAAAR1ALRG2NUyqyQ9dxqLtipdaW_XxQbFXBAJgRLCK4pKNP-yNJSZekyq7EUI_aem_Aat0dh9a11u8xEb4IrKlB1lzgElGgqiTyIN02g53Qumir7BCTxLfTy88vW0oFocDw_GrfppQftSnB3yEF2ujyHvO) -->
 - [A/B Testing](https://www.udacity.com/course/ab-testing--ud257?irclickid=30FWy1xhUxyKWohSYeUgQRR3UkHQdByNMSSnzI0&irgwc=1&utm_source=affiliate&utm_medium=ads_r&aff=2003851&utm_term=&utm_campaign=EdgeBingFlow_tuid%3A2EBB8E4CA3BA6BFB324F9DEFA2FD6A6E_&utm_content=&adid=1932937)
 - [Calmcode](https://calmcode.io/?fbclid=IwAR1H8tc7wDp7g4rutWVxMj5ku0quP2nt7v57pXJz9hH_OeihncpUA7dW3nM) 
 - [Koaning](https://koaning.io/)
@@ -140,7 +118,6 @@ https://www.deeplearningbook.org/-->
 - [OMSCS - Georgia Tech](https://omscs.gatech.edu/current-courses)
 - [News - Ycombinator ](https://news.ycombinator.com/)
 - [Timescale](https://www.timescale.com/developers)
-- [Weight and biases - Customers & case studies](https://wandb.ai/site/customers)
 - [ResearchRabbit](https://www.researchrabbit.ai/) 
 
 <!-- ## Blog 
