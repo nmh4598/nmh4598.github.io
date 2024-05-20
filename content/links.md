@@ -78,6 +78,7 @@ Random links
 - [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/)
 - [Networks, Crowds, and Markets](https://www.cs.cornell.edu/home/kleinber/networks-book/)
 - [14.310x Data Analysis For Social Scientists](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/pages/syllabus/)
+- [CS 228 - Probabilistic Graphical Models](https://ermongroup.github.io/cs228/)
 
 ## Machine learning
 - [6.041SC Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
@@ -88,7 +89,7 @@ Random links
 - [Mathematics for Machine Learning](https://mml-book.github.io/?source=post_page-----8df2b706a0b1--------------------------------)
 - [Pattern Recognition And Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
-- [CS 228 - Probabilistic Graphical Models](https://ermongroup.github.io/cs228/)
+
 
 ## Reinforcement Learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
