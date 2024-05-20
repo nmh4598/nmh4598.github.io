@@ -91,7 +91,7 @@ Random links
 - [Pattern Recognition And Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 
-## Reinforcement Learning 
+## Reinforcement learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/)
