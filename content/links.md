@@ -118,6 +118,7 @@ Random links
 - [ResearchRabbit](https://www.researchrabbit.ai/) 
 - [Markov Chains and Mixing Times](https://darkwing.uoregon.edu/~dlevin/MARKOV/)
 - [Free English, Writing, and Research Courses](https://quillbot.com/courses/)
+- [Yale - Course List ](http://www.stat.yale.edu/Courses/2024-25/)
 
 <!-- ## Blog 
 - [Alex Smola](https://alex.smola.org/teaching.html)
