@@ -84,7 +84,7 @@ Random links
 ## Interviews
 - [Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
-
+ 
 ## Machine learning
 - [6.041SC Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 - [6.042J Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/syllabus/)
