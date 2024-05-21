@@ -4,7 +4,7 @@ title = "Bio"
 
 Hi ✌️
 
-I graduated with a [Master's degree in Data Science, Statistics and Econometrics](https://sites-formations.univ-rennes2.fr/master-mas/components/formation/m2-rennes1.html) from the 🏫 University of Rennes, France. I'm passionate about implementing data analysis (exploration, prediction, and inference), developing data visualization tools, and designing machine learning, deep learning algorithms. 
+I graduated with a [Master's degree in Data Science, statistics](https://sites-formations.univ-rennes2.fr/master-mas/) from the 🏫 University of Rennes, France. I'm passionate about implementing data analysis (exploration, prediction, and inference), developing data visualization tools, and designing machine learning, deep learning algorithms. 
 
 From May 2022 to August 2022, as a Data Scientist intern at [WeLoveDataSciene](https://welovedatascience.com/), I embarked on a project to extract meaningful insights from 🖼️ satellite imagery. I implemented routines to download satellite tiles 🛰️ in the [NIS9](https://statbel.fgov.be/fr/propos-de-statbel/methodologie/classifications/geographie) geographies. I also researched classification techniques to identify land types, such as 🥏 water and ☘️ vegetation and estimate area coverage.
 
