@@ -111,10 +111,11 @@ Random links
 - [Data and Decision Sciences](https://supaerodatascience.github.io/#fsd312)
 - [Numerical Tours in Python](https://www.numerical-tours.com/python/)
 - [OMSCS - Georgia Tech](https://omscs.gatech.edu/current-courses)
-- [News - Ycombinator ](https://news.ycombinator.com/)
+- [News - Ycombinator](https://news.ycombinator.com/)
 - [Timescale](https://www.timescale.com/developers)
 - [ResearchRabbit](https://www.researchrabbit.ai/) 
 - [Markov Chains and Mixing Times](https://darkwing.uoregon.edu/~dlevin/MARKOV/)
+- [Free English, Writing, and Research Courses](https://quillbot.com/courses/)
 
 <!-- ## Blog 
 - [Alex Smola](https://alex.smola.org/teaching.html)
