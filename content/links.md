@@ -4,7 +4,6 @@ title: Links
 toc: true
 ---
 <!-- "I don’t need to know everything, I just need to know where to find it, when I need it." -->
-Random links
 
 ## Algorithms 
 - [6.006 Introduction To Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/)
