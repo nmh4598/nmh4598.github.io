@@ -81,6 +81,10 @@ Random links
 - [14.310x Data Analysis For Social Scientists](https://ocw.mit.edu/courses/14-310x-data-analysis-for-social-scientists-spring-2023/pages/syllabus/)
 - [CS 228 - Probabilistic Graphical Models](https://ermongroup.github.io/cs228/)
 
+## Interviews
+- [Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
+
 ## Machine learning
 - [6.041SC Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 - [6.042J Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/syllabus/)
@@ -96,13 +100,6 @@ Random links
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/)
 
-## System design 
-- [ByteByteGo Newsletter](https://open.substack.com/pub/bytebytego)
-- [Byte-Sized Design](https://open.substack.com/users/134878169-byte-sized-design?utm_source=mentions)
-- [Quastor](https://blog.quastor.org/)
-- [System Design Newsletter](https://open.substack.com/pub/systemdesignone)
-- [The Polymathic Engineer](https://open.substack.com/pub/francofernando)
-
 ## Z 
 - [A/B Testing](https://www.udacity.com/course/ab-testing--ud257?irclickid=30FWy1xhUxyKWohSYeUgQRR3UkHQdByNMSSnzI0&irgwc=1&utm_source=affiliate&utm_medium=ads_r&aff=2003851&utm_term=&utm_campaign=EdgeBingFlow_tuid%3A2EBB8E4CA3BA6BFB324F9DEFA2FD6A6E_&utm_content=&adid=1932937)
 - [Calmcode](https://calmcode.io/?fbclid=IwAR1H8tc7wDp7g4rutWVxMj5ku0quP2nt7v57pXJz9hH_OeihncpUA7dW3nM) 
@@ -114,6 +111,10 @@ Random links
 - [Timescale](https://www.timescale.com/developers)
 - [ResearchRabbit](https://www.researchrabbit.ai/) 
 - [Markov Chains and Mixing Times](https://darkwing.uoregon.edu/~dlevin/MARKOV/)
+- [Byte-Sized Design](https://open.substack.com/users/134878169-byte-sized-design?utm_source=mentions)
+- [Quastor](https://blog.quastor.org/)
+- [System Design Newsletter](https://open.substack.com/pub/systemdesignone)
+- [The Polymathic Engineer](https://open.substack.com/pub/francofernando)
 
 <!-- ## Blog 
 - [Alex Smola](https://alex.smola.org/teaching.html)
