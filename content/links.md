@@ -64,6 +64,7 @@ toc: true
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [inferentialthinking](https://inferentialthinking.com/chapters/01/1/intro.html)
 - [Data 8: The Foundations of Data Science](https://www.data8.org/)
+- [Preceptor’s Primer for Bayesian Data Science: Using the Cardinal Virtues for Inference](https://ppbds.github.io/primer/rubin-causal-model.html)
 
 ## Data engineering | DBMS
 - [A guide to Database Performance for Developpers](https://use-the-index-luke.com/)
