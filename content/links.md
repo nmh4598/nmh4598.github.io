@@ -100,6 +100,7 @@ toc: true
 - [Mathematics for Machine Learning](https://mml-book.github.io/?source=post_page-----8df2b706a0b1--------------------------------)
 - [Pattern Recognition And Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+- [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 
 ## Reinforcement learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
