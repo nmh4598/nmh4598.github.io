@@ -102,6 +102,7 @@ toc: true
 - [Pattern Recognition And Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
 - [The Hundred-Page Machine Learning Book](https://themlbook.com/wiki/doku.php)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
+- [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
 - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 
 ## Reinforcement learning 
