@@ -58,12 +58,13 @@ toc: true
 - [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/)
 - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
 - [Causal Inference - The Mixtape](https://mixtape.scunning.com/)
+- [Data 8: The Foundations of Data Science](https://www.data8.org/)
 - [Do Why](https://www.pywhy.org/dowhy/v0.11.1/example_notebooks/nb_index.html)
+- [Distill](https://distill.pub/) 
 - [explained.ai](https://explained.ai/)
 - [Fairness and machine learning](https://fairmlbook.org/)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [inferentialthinking](https://inferentialthinking.com/chapters/01/1/intro.html)
-- [Data 8: The Foundations of Data Science](https://www.data8.org/)
 - [Preceptor’s Primer for Bayesian Data Science: Using the Cardinal Virtues for Inference](https://ppbds.github.io/primer/rubin-causal-model.html)
 
 ## Data engineering | DBMS
