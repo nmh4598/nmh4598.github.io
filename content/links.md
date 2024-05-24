@@ -99,6 +99,7 @@ toc: true
 - [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html?fbclid=IwAR06g-h3O1uzvnf4EPaARb93sCHb8PdUUB96m8-IMTijhF6qSJb4QHjAPsc)
 - [Mathematics for Machine Learning](https://mml-book.github.io/?source=post_page-----8df2b706a0b1--------------------------------)
 - [Pattern Recognition And Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf)
+- [The Hundred-Page Machine Learning Book](https://themlbook.com/wiki/doku.php)
 - [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 
