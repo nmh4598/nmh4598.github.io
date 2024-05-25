@@ -118,6 +118,7 @@ toc: true
 - [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/)
 - [CME 241: Foundations of Reinforcement Learning with Applications in Finance](https://cme241.github.io/)
 - [AA228/CS238 Decision Making under Uncertainty](https://aa228.stanford.edu/)
+- [CS294-190 Advanced Topics in Learning and Decision Making](https://sites.google.com/view/berkeley-cs294-190-fa21/home)
 
 ## Z 
 - [A/B Testing](https://www.udacity.com/course/ab-testing--ud257?irclickid=30FWy1xhUxyKWohSYeUgQRR3UkHQdByNMSSnzI0&irgwc=1&utm_source=affiliate&utm_medium=ads_r&aff=2003851&utm_term=&utm_campaign=EdgeBingFlow_tuid%3A2EBB8E4CA3BA6BFB324F9DEFA2FD6A6E_&utm_content=&adid=1932937)
@@ -133,6 +134,7 @@ toc: true
 - [Free English, Writing, and Research Courses](https://quillbot.com/courses/)
 - [Yale - Course List ](http://www.stat.yale.edu/Courses/2024-25/)
 - [Project Gutenberg - 70,000 free eBooks](https://www.gutenberg.org/)
+- [CS294-194 Research to Start-up](https://startups.berkeley.edu/)
 
 <!-- ## Blog 
 - [Alex Smola](https://alex.smola.org/teaching.html)
