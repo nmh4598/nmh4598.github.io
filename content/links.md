@@ -105,6 +105,10 @@ toc: true
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
 - [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 
+## NLP | LLMs
+- [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2024/)
+- [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+
 ## Reinforcement learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
