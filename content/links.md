@@ -108,6 +108,7 @@ toc: true
 ## NLP | LLMs
 - [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2024/)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+- [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
 
 ## Reinforcement learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
