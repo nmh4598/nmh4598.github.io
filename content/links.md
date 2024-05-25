@@ -108,7 +108,11 @@ toc: true
 ## Reinforcement learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 - [CS234 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+- [CS332: Advanced Survey of Reinforcement Learning](https://cs332.stanford.edu/#!index.md)
+- [CS 224R Deep Reinforcement Learning](https://cs224r.stanford.edu/)
 - [UCL COMP M050: Reinforcement Learning](https://www.davidsilver.uk/teaching/)
+- [CME 241: Foundations of Reinforcement Learning with Applications in Finance](https://cme241.github.io/)
+- [AA228/CS238 Decision Making under Uncertainty](https://aa228.stanford.edu/)
 
 ## Z 
 - [A/B Testing](https://www.udacity.com/course/ab-testing--ud257?irclickid=30FWy1xhUxyKWohSYeUgQRR3UkHQdByNMSSnzI0&irgwc=1&utm_source=affiliate&utm_medium=ads_r&aff=2003851&utm_term=&utm_campaign=EdgeBingFlow_tuid%3A2EBB8E4CA3BA6BFB324F9DEFA2FD6A6E_&utm_content=&adid=1932937)
