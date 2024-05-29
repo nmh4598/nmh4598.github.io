@@ -81,6 +81,9 @@ toc: true
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/ITER.pdf)
 - [Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 
+## Finance
+- [Computations in Finance](https://www.youtube.com/@ComputationsInFinance/playlists)
+
 ## Graphs
 - [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
 - [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/)
