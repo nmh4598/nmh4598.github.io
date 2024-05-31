@@ -85,6 +85,7 @@ toc: true
 ## Finance
 - [Computations in Finance](https://www.youtube.com/@ComputationsInFinance/playlists)
 - [Course of Master Probability and Finance](https://finance.math.upmc.fr/enseignements/enseignement/)
+- [Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/pages/lecture-notes/)
 
 ## Graphs
 - [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
