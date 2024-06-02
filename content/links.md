@@ -84,7 +84,6 @@ toc: true
 
 ## Finance
 - [Computations in Finance](https://www.youtube.com/@ComputationsInFinance/playlists)
-- [Course of Master Probability and Finance](https://finance.math.upmc.fr/enseignements/enseignement/)
 - [Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/pages/lecture-notes/)
 
 ## Graphs
@@ -97,7 +96,8 @@ toc: true
 ## Interviews
 - [Machine Learning Interviews](https://huyenchip.com/ml-interviews-book/)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/)
- 
+- [Prepare.sh](https://prepare.sh/)
+
 ## Machine learning
 - [6.041SC Probabilistic Systems Analysis and Applied Probability](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/)
 - [6.042J Mathematics For Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/pages/syllabus/)
@@ -141,6 +141,8 @@ toc: true
 - [Yale - Course List ](http://www.stat.yale.edu/Courses/2024-25/)
 - [Project Gutenberg - 70,000 free eBooks](https://www.gutenberg.org/)
 - [CS294-194 Research to Start-up](https://startups.berkeley.edu/)
+- [Course of Master Probability and Finance](https://finance.math.upmc.fr/enseignements/enseignement/)
+- [Baruch MFE ](<https://mfe.baruch.cuny.edu/curriculum/#:~:text=The%20new%20Baruch%20MFE%20Curriculum,core%20set%20of%20redesigned%20courses).>)
 
 <!-- ## Blog 
 - [Alex Smola](https://alex.smola.org/teaching.html)
