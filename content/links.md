@@ -75,6 +75,7 @@ toc: true
 - [CMU 15-445/645 Database Systems](https://15445.courses.cs.cmu.edu/fall2023/)
 - [CMU 15-721 Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/)
 - [NFE204](http://b3d.bdpedia.fr/intro.html)
+- [CS 145 Intro to Big Data Systems](https://shivag.github.io/cs145-stanford-fa23/)
 
 ## Econometris
 - [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10EconometricTheorems/)
