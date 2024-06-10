@@ -116,6 +116,7 @@ toc: true
 - [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2024/)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
+- [Generative AI Handbook: A Roadmap for Learning Resources](https://genai-handbook.github.io/?fbclid=IwZXh0bgNhZW0CMTAAAR23Es-MyiDM90ztc-sDQlDaIRCr0wKtaOwr5A7nkqv75dmJT019CyCgedw_aem_AUOmFTigp9jaHimsJWAFdLjaz_owRxb-NwcJyeRur7X7-04G6kwCvs-B1KIRZExc-stLfU5o2476Rrp2driHxu2n#)
 
 ## Reinforcement learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
