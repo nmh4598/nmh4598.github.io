@@ -87,6 +87,9 @@ toc: true
 - [Computations in Finance](https://www.youtube.com/@ComputationsInFinance/playlists)
 - [Topics In Mathematics With Applications In Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/pages/lecture-notes/)
 
+## Generative AI
+- [Generative AI Handbook: A Roadmap for Learning Resources](https://genai-handbook.github.io/?fbclid=IwZXh0bgNhZW0CMTAAAR23Es-MyiDM90ztc-sDQlDaIRCr0wKtaOwr5A7nkqv75dmJT019CyCgedw_aem_AUOmFTigp9jaHimsJWAFdLjaz_owRxb-NwcJyeRur7X7-04G6kwCvs-B1KIRZExc-stLfU5o2476Rrp2driHxu2n#)
+
 ## Graphs
 - [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
 - [CS246: Mining Massive Data Sets](https://web.stanford.edu/class/cs246/)
@@ -116,7 +119,6 @@ toc: true
 - [CS336: Language Modeling from Scratch](https://stanford-cs336.github.io/spring2024/)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
 - [CS 324 - Advances in Foundation Models](https://stanford-cs324.github.io/winter2023/)
-- [Generative AI Handbook: A Roadmap for Learning Resources](https://genai-handbook.github.io/?fbclid=IwZXh0bgNhZW0CMTAAAR23Es-MyiDM90ztc-sDQlDaIRCr0wKtaOwr5A7nkqv75dmJT019CyCgedw_aem_AUOmFTigp9jaHimsJWAFdLjaz_owRxb-NwcJyeRur7X7-04G6kwCvs-B1KIRZExc-stLfU5o2476Rrp2driHxu2n#)
 
 ## Reinforcement learning 
 - [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
