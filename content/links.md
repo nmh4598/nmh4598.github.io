@@ -76,6 +76,7 @@ toc: true
 - [CMU 15-721 Advanced Database Systems](https://15721.courses.cs.cmu.edu/spring2024/)
 - [NFE204](http://b3d.bdpedia.fr/intro.html)
 - [CS 145 Intro to Big Data Systems](https://shivag.github.io/cs145-stanford-fa23/)
+- [6.5840: Distributed Systems](http://nil.csail.mit.edu/6.5840/2023/)
 
 ## Econometris
 - [10 Fundamental Theorems for Econometrics](https://bookdown.org/ts_robinson1994/10EconometricTheorems/)
@@ -89,6 +90,9 @@ toc: true
 
 ## Generative AI
 - [Generative AI Handbook: A Roadmap for Learning Resources](https://genai-handbook.github.io/?fbclid=IwZXh0bgNhZW0CMTAAAR23Es-MyiDM90ztc-sDQlDaIRCr0wKtaOwr5A7nkqv75dmJT019CyCgedw_aem_AUOmFTigp9jaHimsJWAFdLjaz_owRxb-NwcJyeRur7X7-04G6kwCvs-B1KIRZExc-stLfU5o2476Rrp2driHxu2n#)
+
+## GPU 
+- [CUDA](https://github.com/cuda-mode/lectures?tab=readme-ov-file) 
 
 ## Graphs
 - [CS224W: Machine Learning with Graphs](https://web.stanford.edu/class/cs224w/)
