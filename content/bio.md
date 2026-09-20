@@ -1,16 +1,46 @@
 +++
 title = "Bio"
 +++
-
 Hi ✌️
 
-I graduated with a [MSc Data Science, Statistics and Econometrics](https://sites-formations.univ-rennes2.fr/master-mas/) from the 🏫 University of Rennes, France. I'm passionate about implementing data analysis (exploration, prediction, and inference), developing data visualization tools, and designing machine learning, deep learning algorithms. 
+I graduated with an [MSc in Data Science, Statistics and Econometrics](https://sites-formations.univ-rennes2.fr/master-mas/) from the 🏫 **University of Rennes, France**. I’m passionate about exploring data, building predictive models, drawing statistical insights, developing data visualization tools, and designing machine learning and deep learning algorithms.
 
-From May 2022 to August 2022, as a Data Scientist intern at [WeLoveDataSciene](https://welovedatascience.com/), I embarked on a project to extract meaningful insights from 🖼️ satellite imagery. I implemented routines to download satellite tiles 🛰️ in the [NIS9](https://statbel.fgov.be/fr/propos-de-statbel/methodologie/classifications/geographie) geographies. I also researched segmentation techniques to identify land types, such as 🥏 water, ☘️ vegetation and estimate area coverage.
+My experience spans satellite imagery, public-sector analytics, loyalty programs, real estate, and market intelligence.
 
-From September 2022 to August 2023, I pursued a work-study program as a Data Scientist apprentice at [Departement Council of Mayenne](https://en.wikipedia.org/wiki/Departmental_Council_of_Mayenne). Subsequently, I collected and processed data from both [INSEE](https://www.insee.fr/fr/accueil) and [URSAFF](https://www.urssaf.fr/accueil.html). Then, I published the cleaned data with metadata on the [OpenData platform](https://data.lamayenne.fr/pages/home/). Furthermore, I developed an internal data pipeline in POCs to collect data in batches from multiple APIs provided by [Pole Emploi](https://francetravail.io/data/api). I also built a model to predict 📈📉 unemployment rate trends and developed a visually 📊 dashboard to monitor territorial observatory indicators.
+### 🛰️ Data Scientist Intern — WeLoveDataScience
+**May 2022 – August 2022 | [WeLoveDataScience](https://welovedatascience.com/)**
 
-I am actively seeking a position as a Data Scientist or Data Analyst. I'm eager to learn and contribute to any team. I'm open to venturing into different career fields. Please feel free to send me an email at [nguyenmanhhung04051998@gmail.com](mailto:nguyenmanhhung04051998@gmail.com) if you have any opportunities available. 🤝
+I worked on extracting meaningful insights from satellite imagery:
+
+- Implemented routines to download satellite tiles covering [NIS9 geographic areas](https://statbel.fgov.be/fr/propos-de-statbel/methodologie/classifications/geographie).
+- Researched image segmentation techniques to identify land cover types, including 🌊 water and 🌿 vegetation, and estimate their surface coverage.
+
+### 🏛️ Data Scientist Apprentice — Departmental Council of Mayenne
+**September 2022 – August 2023 | [Departmental Council of Mayenne](https://en.wikipedia.org/wiki/Departmental_Council_of_Mayenne)**
+
+As part of a work-study program, I contributed to open data and territorial analytics projects:
+
+- Collected and processed data from [INSEE](https://www.insee.fr/fr/accueil) and [URSSAF](https://www.urssaf.fr/accueil.html).
+- Published cleaned datasets with supporting metadata on the [Mayenne Open Data platform](https://data.lamayenne.fr/pages/home/).
+- Developed a proof-of-concept internal data pipeline to collect data in batches from multiple [Pôle emploi APIs](https://francetravail.io/data/api).
+- Built a predictive model to forecast 📈 unemployment rate trends.
+- Developed an interactive 📊 dashboard to monitor territorial observatory indicators.
+
+### 💼 Data Analyst — One Mount
+**July 2024 – July 2026 | [One Mount](https://onemount.com/) | Hanoi, Vietnam**
+
+I contributed to analytics and reporting projects across loyalty, real estate, and market intelligence:
+
+- 🏦 **Techcombank Rewards:** Designed and developed a loyalty datamart on **Databricks** using the **medallion architecture** to support marketing analytics and customer segmentation.
+- 📊 **OneView:** Developed a reporting platform using **SSAS, dbt, Dremio, and a star schema** to analyze customer behavior, monitor monthly transacting users (MTU) and monthly active users (MAU), and track customer events.
+- 🏠 **OneHousing:** Built automated inventory and sales reporting solutions using **dbt, Dremio, and Power BI**, delivering business KPIs across the primary, secondary, and landed property markets.
+- 🔎 **Market Intelligence:** Built an automated system that monitored **200+ keywords** using **Google Alerts, Python, Airflow, n8n, and Google Cloud Storage (GCS)**, reducing manual market research effort by **80%**.
+
+### 🤝 Let’s Connect
+
+I am actively seeking a position as a **Data Scientist or Data Analyst**, where I can apply my experience in data pipelines, predictive modeling, and visualization to solve business problems. I’m eager to continue learning, contribute to a team, and explore opportunities across different industries.
+
+📩 If you have an opportunity available, please feel free to reach out at [nguyenmanhhung04051998@gmail.com](mailto:nguyenmanhhung04051998@gmail.com).
 
 <!-- ## [Master 1 cours](https://formations.univ-rennes.fr/annee/master-1-mathematiques-appliquees-statistiques-0): 
 - [Inferential statistics](https://formations.univ-rennes.fr/statistique-inferentielle): Hypothesis testing, Loss function,..
